@@ -1,0 +1,9 @@
+cluster,n,top_label,examples,purity
+0,62,chance,itv competition | heart competition | competitions | heart radio competition | dance competition,0.53
+1,91,chance,dubai raffle | duty free raffle | raffle draw | dubai duty free raffle | abu dhabi raffle,0.91
+2,77,chance,car giveaway | free giveaway | dream car giveaway | facebook giveaway | iphone giveaway,0.83
+3,168,cash_saving,tesco offer | sky offer | special offer | offer up | boots offer,0.73
+4,49,cash_saving,iphone deals | phone deals | broadband deals | tv deals | sim only deals,0.84
+5,57,cash_saving,عروض الامارات | عروض كارفور | كارفور | عروض دبي | عروض اتصالات,0.96
+6,146,none,win 10 | al ain scratch and win | tamil win | minute to win it | win rar,0.64
+7,19,cash_saving,black friday deals | black friday | black friday deals 2019 | black friday deals uk | best black friday deals,0.89

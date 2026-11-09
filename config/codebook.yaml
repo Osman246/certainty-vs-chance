@@ -1,0 +1,55 @@
+# Codebook for LLM-assisted content analysis.
+# Claude gets these definitions plus the worked examples and returns one label per field.
+# You hand-label the same validation sample with the SAME rules (see docs/labelling_guide.md).
+
+version: "1.0"
+
+fields:
+  reward_type:
+    description: "The main kind of reward or offer the post is about."
+    labels:
+      chance:      "A prize you might win: competition, prize draw, raffle, instant win, giveaway, sweepstake, mall 'spend and win'."
+      cash_saving: "A guaranteed money saving: discount, voucher or promo code, cashback, sale price, price match."
+      free_gift:   "A guaranteed free item with a purchase or sign-up: free gift, gift with purchase, freebie, sample."
+      loyalty:     "Points, stamps, member prices, tier rewards, loyalty apps (Nectar, Clubcard, Share, Blue Rewards...)."
+      credit:      "Buy now pay later, instalments, credit offers (Klarna, Clearpay, Tabby, Tamara...)."
+      none:        "No reward or offer is the main topic."
+
+  stance:
+    description: "How the author feels about that reward."
+    labels:
+      positive: "Excited, keen, recommending it, pleased they took part."
+      negative: "Sceptical, annoyed, thinks it's a scam or waste of time, regrets it."
+      neutral:  "Asking a question or stating facts without clear feeling."
+
+  money_pressure:
+    description: "Does the author mention money being tight, prices rising, saving or cutting back?"
+    labels:
+      yes: "Explicit mention of budget pressure, rising costs, needing to save, can't afford."
+      no:  "No mention of money pressure."
+
+examples:
+  - text: "Entered the Walkers win a PS5 thing again, never win anything but it's free so why not"
+    reward_type: chance
+    stance: neutral
+    money_pressure: "no"
+  - text: "Honestly with bills this high I've stopped bothering with comps, I only use cashback sites now. Guaranteed money > lottery odds."
+    reward_type: cash_saving
+    stance: positive
+    money_pressure: "yes"
+  - text: "These 'spend 200 AED and enter the raffle' deals at the mall are a con, nobody I know has ever won"
+    reward_type: chance
+    stance: negative
+    money_pressure: "no"
+  - text: "Boots points are going further this month, got my mum's present basically free"
+    reward_type: loyalty
+    stance: positive
+    money_pressure: "no"
+  - text: "Paid for school uniforms with Tabby in 4 because salary hasn't come in yet"
+    reward_type: credit
+    stance: neutral
+    money_pressure: "yes"
+  - text: "Anyone know if the free tote bag with the Clinique set is still on?"
+    reward_type: free_gift
+    stance: neutral
+    money_pressure: "no"

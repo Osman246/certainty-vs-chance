@@ -1,0 +1,675 @@
+# Labelled by Claude Opus 5.5 (in-session, 8 Nov 2026) against config/codebook_queries.yaml v1.0
+# format: id|code|query   code = reward,object,money_pressure
+# reward: c chance, s cash_saving, g free_gift, l loyalty, r credit, n none
+# object: $ cash, t travel/experiences, v car/fuel, k tech/telecom, f groceries/food, b fashion/beauty, h home, o other, - none
+# coding decisions: gold prizes = cash; betting sign-up 'free bet' offers = chance (value depends on winning a bet);
+# bank switching bonuses = cash_saving/cash; TV/radio station competitions = chance; skill contests (photo, poetry) = none
+0|c-n|itv competition
+1|c-n|heart competition
+2|c-n|competitions
+3|c-n|heart radio competition
+4|n-n|dance competition
+5|c-n|walkers competition
+6|n-n|competition law
+7|n-n|m2 competition
+8|c-n|walkers christmas competition
+9|n-n|photo competition
+10|c-n|competition time
+11|n-n|photography competition
+12|c-n|magic competition
+13|c-n|heart competition number
+14|n-n|perfect competition
+15|n-n|competition meaning
+16|n-n|bmw m2 competition
+17|c-n|this morning competition
+18|c-n|kiss competition
+19|c-n|heart fm competition
+20|c-n|competitions uk
+21|n-n|m4 competition
+22|n-n|m5 competition
+23|c-n|itv rugby competition
+24|c-n|rugby world cup competition
+25|cvn|car giveaway
+26|c-n|free giveaway
+27|cvn|dream car giveaway
+28|c-n|facebook giveaway
+29|ckn|iphone giveaway
+30|c-n|heart giveaway
+31|ctn|ticket giveaway
+32|c-n|giveaway competition
+33|cfn|cadbury basket giveaway
+34|c-n|amazon giveaway
+35|c-n|christmas giveaway
+36|c-n|giveaways
+37|cvn|performance car giveaway
+38|ckn|pc giveaway
+39|n-n|giveaway bot
+40|ckn|currys giveaway
+41|c$n|money giveaway
+42|ckn|iphone 11 giveaway
+43|ctn|historic scotland giveaway
+44|c-n|familyfizz.com giveaway
+45|cfn|yeo valley birthday giveaway
+46|ctn|historic scotland ticket giveaway
+47|c-n|family fizz giveaway
+48|c$n|john lewis voucher giveaway
+49|c$n|paypal golden ticket giveaway
+50|s-n|black friday deals
+51|s-n|black friday
+52|skn|iphone deals
+53|skn|phone deals
+54|skn|broadband deals
+55|skn|tv deals
+56|s-n|black friday deals 2019
+57|skn|sim only deals
+58|skn|sky deals
+59|s-n|hot deals
+60|stn|holiday deals
+61|s-n|black friday deals uk
+62|s-n|hot deals uk
+63|n-n|ee
+64|skn|ee deals
+65|stn|spa deals
+66|skn|mobile phone deals
+67|stn|last minute deals
+68|stn|late deals
+69|s-n|best black friday deals
+70|skn|iphone 11 deals
+71|n-n|vodafone
+72|skn|vodafone deals
+73|skn|currys black friday deals
+74|s-n|black friday deals 2019 uk
+75|sfn|tesco offer
+76|skn|sky offer
+77|s-n|special offer
+78|n-n|offer up
+79|sbn|boots offer
+80|s-n|offer of the day
+81|n-n|local offer
+82|son|photobox offer code
+83|son|studio offer code
+84|sfn|lidl offer
+85|n-n|unconditional offer
+86|sfn|sainsburys wine offer
+87|sbn|boots offer code
+88|skn|now tv sky sports offer
+89|skn|currys offer code
+90|son|amazon prime offer
+91|svn|tesco petrol offer
+92|sbn|boots offer of the week
+93|svn|tesco fuel offer
+94|shn|sainsburys dyson offer
+95|skn|sky netflix offer
+96|n-n|ucas offer calculator
+97|sfn|sainsbury wine offer
+98|s-n|argos voucher offer
+99|sfn|match day offer deliveroo
+100|n-n|win 10
+101|c-n|al ain scratch and win
+102|n-n|tamil win
+103|n-n|minute to win it
+104|n-n|win rar
+105|n-n|tamil win news
+106|n-n|how to win friends and influence people
+107|c-n|alain scratch and win
+108|n-n|win 10 pro
+109|c-n|al ain scratch and win 2019
+110|c-n|al ain milk scratch and win
+111|n-n|you can win
+112|n-n|all win cargo
+113|c-n|spin and win
+114|c-n|al ain farms scratch & win
+115|n-n|win every game
+116|c-n|al ain farms scratch and win 2019
+117|c-n|al ain farms scratch and win draw date
+118|c-n|al ain farms scratch and win winners
+119|c-n|alain farm scratch and win
+120|c-n|al ain water peel and win
+121|c-n|al ain dairy scratch and win
+122|con|luluhypermarket win scholarship
+123|n-n|win a date with tad hamilton
+124|con|www.luluhypermarket.com win scholarship
+125|c-n|dubai raffle
+126|c$n|duty free raffle
+127|c-n|raffle draw
+128|c$n|dubai duty free raffle
+129|c$n|abu dhabi raffle
+130|c$n|big ticket raffle
+131|c-n|dubai raffle ticket
+132|c-n|lulu raffle
+133|c$n|abu dhabi raffle ticket
+134|c$n|dubai duty free raffle ticket
+135|c-n|uae raffle
+136|c-n|raffle tickets
+137|c$n|big ticket abu dhabi raffle
+138|c-n|raffle draw dubai
+139|c$n|abu dhabi raffle draw
+140|c$n|dubai duty free raffle ticket buy
+141|c$n|abu dhabi duty free raffle
+142|c$n|big ticket raffle draw
+143|c-n|luluhypermarket raffle
+144|c-n|lulu hypermarket raffle
+145|c-n|raffle tickets dubai
+146|c$n|big ticket raffle draw abu dhabi
+147|c-n|lulu raffle draw
+148|c-n|lulu raffle registration
+149|c-n|zoom raffle draw 2019
+150|s-n|dubai offers
+151|s-n|uae offers
+152|sfn|lulu offers
+153|s-n|offers in dubai
+154|sfn|carrefour offers
+155|s-n|offers in uae
+156|skn|etisalat offers
+157|n-n|nesto
+158|sfn|nesto offers
+159|sfn|pizza offers
+160|skn|du offers
+161|sfn|pizza hut offers
+162|stn|cleartrip offers
+163|skn|sharaf dg offers
+164|skn|gitex offers
+165|s-n|noon offers
+166|skn|gitex offers 2019
+167|sfn|safari mall offers
+168|s$n|adcb offers
+169|s-n|offers in abu dhabi
+170|s-n|amazon offers
+171|sfn|safari mall sharjah offers
+172|sfn|nesto sharjah offers
+173|sfn|papa johns offers
+174|skn|emax offers
+175|s-n|عروض الامارات
+176|sfn|عروض كارفور
+177|n-n|كارفور
+178|s-n|عروض دبي
+179|skn|عروض اتصالات
+180|sfn|عروض اللولو
+181|sfn|عروض كارفور الامارات
+182|s-n|عروض عجمان
+183|sfn|عروض نستو
+184|skn|عروض دو
+185|stn|عروض طيران
+186|s-n|اخر عروض الامارات
+187|skn|عروض اتصالات الامارات
+188|skn|عروض نت
+189|sfn|عروض لولو
+190|sfn|عروض اللولو الامارات
+191|sfn|عروض كارفور اليوم
+192|sfn|عروض نستو عجمان
+193|stn|عروض طيران الامارات
+194|sfn|عروض بيتزا هت
+195|sfn|عروض جمعية الامارات
+196|sfn|عروض رامز
+197|s-n|عروض تسوق نت
+198|stn|عروض الطيران
+199|sfn|عروض جمعية ابوظبي
+200|c-n|good morning competition
+201|c-n|good morning britain competition
+202|c-n|gmb competition
+203|c-n|capital competition
+204|c-n|gmtv competition
+205|c-n|take a break competition
+206|c-n|magic radio competition
+207|c-n|hits radio competition
+208|c-n|greatest hits radio competition
+209|chn|house giveaway
+210|n-n|great house giveaway
+211|n-n|the great house giveaway
+212|c-n|instagram giveaway
+213|c-n|giveaway guys
+214|n-n|giveaway picker
+215|c-n|giveaway winner
+216|c-n|molly mae giveaway
+217|c-n|the giveaway guys
+218|n-n|giveaway ideas
+219|n-n|instagram giveaway picker
+220|con|guitar giveaway
+221|c$n|heart 10k giveaway
+222|ckn|ps5 giveaway
+223|n-n|discord giveaway bot
+224|n-n|great house giveaway channel 4
+225|con|guitar gear giveaway
+226|cvn|dream cars giveaway
+227|s-n|uk deals
+228|s-n|black friday 2020 deals
+229|s-n|hot uk deals
+230|skn|laptop deals
+231|n-n|o2
+232|skn|iphone 12 deals
+233|skn|black friday tv deals
+234|n-n|mortgage offer
+235|skn|now tv offer
+236|sfn|tesco wine offer
+237|sfn|kfc offer
+238|skn|spotify offer
+239|sfn|asda wine offer
+240|skn|now tv sky sports pass offer
+241|sfn|mcdonalds offer
+242|gkn|spotify google nest offer
+243|sfn|morrisons wine offer
+244|sfn|kfc tuesday offer
+245|sbn|boots soap and glory offer
+246|sfn|tesco wine offers
+247|n-n|trump win
+248|n-n|biden win
+249|n-n|trump will win
+250|n-n|who will win 2020 election
+251|n-n|will biden win
+252|n-n|who will win us election
+253|n-n|who win today ipl
+254|n-n|who will win us election 2020
+255|n-n|who will win the election
+256|n-n|did biden win
+257|n-n|trump vs biden who will win
+258|n-n|who will win trump or biden
+259|n-n|did trump win
+260|n-n|how to win friends
+261|n-n|can trump win
+262|n-n|270 to win
+263|n-n|who will win ipl 2020
+264|n-n|who will win today match
+265|n-n|who win us election results 2020
+266|n-n|ipl win list
+267|n-n|who win usa election 2020
+268|n-n|who win 2020 election in us
+269|n-n|commit to win
+270|c-n|dsf raffle
+271|cvn|infiniti mega raffle
+272|c-n|raffle draw uae
+273|c-n|dss raffle 2020
+274|c-n|dsf raffle 2021
+275|c$n|dubai duty free raffle draw
+276|c$n|ddf raffle
+277|c$n|addf raffle
+278|s-n|abu dhabi offers
+279|s-n|sharjah offers
+280|sfn|kfc offers
+281|sfn|coop offers
+282|sfn|carrefour uae offers
+283|sfn|lulu uae offers
+284|sfn|lulu hypermarket offers
+285|sfn|lulu offers abu dhabi
+286|stn|عروض فنادق
+287|sfn|عروض اللولو ابوظبي
+288|sfn|عروض كنتاكي
+289|s-n|عروض نون
+290|stn|عروض فنادق دبي
+291|sfn|عروض رامز الشهامة
+292|sfn|عروض اللولو العين
+293|skn|عروض دو للهواتف
+294|c-n|greatest hits competition
+295|n-n|poetry competition
+296|c-n|competition fox
+297|n-n|competition crossword clue
+298|n-n|leeds piano competition
+299|c-n|giveaway instagram
+300|n-n|giveaway bot discord
+301|c$n|cash giveaway
+302|cvn|car giveaway uk
+303|c-n|giveaway guys competitions
+304|cvn|autotrader giveaway
+305|c-n|prize giveaway
+306|c-n|giveaway life
+307|cvn|dream car giveaway uk
+308|s-n|black friday deals 2021
+309|svn|car lease deals
+310|skn|iphone 13 deals
+311|svn|pcp deals
+312|skn|now tv sports offer
+313|n-n|conditional offer
+314|n-n|part 36 offer
+315|skn|sky sports now tv offer
+316|s$n|nationwide switch offer
+317|sfn|morrisons breakfast offer
+318|skn|disney plus offer
+319|s$n|santander switch offer
+320|sfn|pizza express offer
+321|gkn|apple student offer
+322|shn|edf offer code
+323|sfn|tesco baileys offer
+324|sbn|mac offer code
+325|svn|kwik fit mot offer code
+326|n-n|pakistan win
+327|n-n|win 11
+328|n-n|who win today match
+329|c-n|coca cola win
+330|ckn|kitkat win ps5
+331|c-n|coca cola open and win
+332|n-n|pak vs win
+333|c$n|how to win mahzooz
+334|n-n|win rar download
+335|n-n|win coin
+336|ckn|kitkat win ps5.com
+337|c-n|al ain farms scratch and win
+338|c$n|lulu win gold
+339|n-n|who will win the ballon d'or 2021
+340|n-n|when did dubai win expo 2020
+341|c$n|win win lottery result today
+342|n-n|win 11 release date
+343|n-n|sure win prediction today
+344|n-n|who of the following is the first indian woman to win a gold medal at the asian games?
+345|n-n|india vs pakistan all match win list
+346|c-n|uae raffle draw
+347|c-n|dubai raffle draw
+348|c-n|raffle draw 2021
+349|c$n|emirates raffle
+350|c$n|emirates raffle draw
+351|c-n|adnoc raffle
+352|c$n|mahzooz raffle draw
+353|c$n|lulu gold raffle
+354|n-n|raffle meaning
+355|c-n|adnoc raffle draw
+356|n-n|what is raffle draw
+357|c$n|lulu kalyan e raffle coupon
+358|c-n|adnoc raffle draw 2021
+359|c$n|emirates raffle tickets
+360|c-n|lulu hypermarket raffle registration uae
+361|c-n|lulu raffle registration uae
+362|s$n|credit card offers
+363|sfn|lulu offers today
+364|stn|expo tickets offers
+365|sfn|عروض كارفور عجمان
+366|svn|عروض السيارات
+367|sfn|عروض كارفور ابوظبي
+368|s-n|عروض فيفا
+369|sfn|عروض جمعية الاتحاد
+370|cvn|car competition
+371|n-n|official competition
+372|n-n|m3 competition
+373|c-n|absolute radio competition
+374|c$n|goals giveaway
+375|c$n|goals giveaway bet365
+376|c-n|giveaway competitions
+377|ctn|british airways giveaway
+378|ctn|british airways black friday giveaway
+379|ctn|emirates giveaway
+380|ctn|british airways 2022 black friday giveaway
+381|c$n|santander 100k giveaway
+382|c$n|what is okx giveaway
+383|n-n|iphone
+384|s-n|black friday deals 2022
+385|skn|iphone 14 deals
+386|skn|bt broadband deals
+387|n-n|the offer
+388|n-n|contextual offer
+389|sfn|sainsbury's wine offer
+390|s$n|natwest switch offer
+391|skn|samsung trade in offer
+392|n-y|nhs scotland pay offer
+393|n-y|cosla pay offer
+394|sbn|boots offer code 2022
+395|s$n|lloyds switch offer
+396|sfn|costa friday offer
+397|s$n|first direct switch offer
+398|skn|now tv entertainment pass offer
+399|sbn|boots offer codes
+400|n-n|india win
+401|n-n|today win match
+402|c$n|go win result
+403|c$n|go win today
+404|c$n|go win uae
+405|n-n|who will win world cup 2022
+406|n-n|saudi win
+407|n-n|pakistan world cup win
+408|n-n|england world cup win
+409|c$n|go win uae today
+410|c$n|go win draw
+411|n-n|who win the match today
+412|c$n|go win draw today
+413|n-n|who win today fifa match
+414|n-n|who will win fifa world cup 2022
+415|c-n|open and win coca cola
+416|n-n|everyday is win day
+417|n-n|who will win t20 world cup 2022
+418|n-n|how many times did brazil win the world cup
+419|n-n|who will win asia cup 2022
+420|c$n|go win result yesterday
+421|c-n|big sharq raffle draw
+422|c-n|dsf raffle 2022
+423|c-n|enoc raffle
+424|c-n|enoc raffle draw 2022
+425|c$n|al ansari raffle draw 2022
+426|c-n|dsf raffle 2022 winners list
+427|c-n|dsf raffle draw
+428|n-n|raffle draw meaning
+429|c$n|al ansari exchange raffle draw
+430|c-n|dsf 2022 raffle tickets
+431|c-n|big sharq raffle draw live today
+432|c-n|etisalat raffle draw 2022
+433|c-n|etisalat raffle draw 2022 winners list
+434|c-n|raffle tickets etisalat
+435|c$n|emirates draw new raffle
+436|stn|burj khalifa offers
+437|stn|vox offers
+438|stn|burj khalifa tickets offers
+439|sfn|nesto offers today
+440|stn|عروض اسطنبول
+441|sfn|عروض السفير
+442|sfn|عروض لولو الامارات
+443|n-n|bmw m4 competition
+444|n-n|500 words competition
+445|n-n|bmw m5 competition
+446|n-n|bmw m3 competition
+447|c-n|bounty competition
+448|n-n|northern competition
+449|c-n|dream giveaway
+450|cvn|dream car giveaways
+451|c$n|elon musk giveaway
+452|s-n|black friday deals 2023
+453|skn|iphone 15 deals
+454|n-n|sky broadband
+455|stn|cruise deals
+456|skn|sky broadband deals
+457|svn|lease car deals
+458|s$n|switch offer
+459|s$n|bank switch offer
+460|n-n|the best offer
+461|s$n|tsb switch offer
+462|s$n|barclays switch offer
+463|s$n|halifax switch offer
+464|s$n|bank switch offers
+465|n-n|mbappe saudi offer
+466|s$n|nationwide switch offer 2023
+467|gkn|samsung disney plus offer
+468|sfn|sainsbury's wine offer dates
+469|c$n|go win results
+470|n-n|win draw win
+471|c$n|go win results today
+472|n-n|true win
+473|c$n|go win lottery
+474|c$n|go win live
+475|c$n|go win winner
+476|c-n|drink and win
+477|c$n|gowin
+478|c$n|go win live today
+479|n-n|win win wireless
+480|c$n|go win winner today
+481|c-n|shop win
+482|c$n|go win dubai
+483|c$n|go win uae result
+484|c-n|drink and win coca cola
+485|n-n|win win wireless dubai
+486|n-n|who win today match cricket
+487|c$n|nescafe win salary
+488|c-n|eagle raffle draw
+489|c-n|dsf raffle draw today winner
+490|c-n|raffle coupon
+491|c-n|united raffle draw
+492|c-n|lulu raffle draw 2023
+493|c-n|lulu hypermarket raffle registration
+494|c-n|lulu raffle winners
+495|c$n|al ansari raffle draw
+496|c-n|dsf mega raffle
+497|c-n|mydsf.ae raffle
+498|c-n|dsf raffle draw today winner list
+499|c-n|dsf mega raffle 2023
+500|c-n|eagle raffle draw 6 september 2023
+501|c-n|lulu hypermarket raffle draw date 2023
+502|stn|vox cinema offers
+503|skn|du data offers
+504|sfn|day to day offers
+505|sfn|km trading offers
+506|sfn|عروض جمعية الشارقة
+507|sfn|عروض نستو الشارقة
+508|sfn|عروض كارفور الإمارات
+509|sfn|عروض نستو اليوم
+510|n-n|bmw m3
+511|c-n|waitrose competition
+512|cvn|autotrader car giveaway
+513|c-n|asda giveaway
+514|cvn|autotrader electric car giveaway
+515|n-n|broadband
+516|svn|lease deals
+517|s-n|black friday 2024
+518|s-n|black friday deals 2024
+519|s-n|uk hot deals
+520|sfn|wine offer
+521|s$n|lloyds bank switch offer
+522|sfn|waitrose wine offer
+523|sfn|morrisons baileys offer
+524|sbn|boots offer code uk
+525|son|tonies offer
+526|n-n|contextual offer meaning
+527|n-y|nurses reject pay offer
+528|s-n|amazon prime student offer
+529|gkn|apple university offer
+530|lbn|beaverbrooks club offer
+531|c$n|u win result today
+532|n-n|nah id win
+533|c$n|u win lottery
+534|n-n|did trump win 2024 election
+535|n-n|who win america election 2024
+536|n-n|who will win us election 2024
+537|n-n|did donald trump win
+538|n-n|who will win ballon d'or 2024
+539|c$n|go win result today 2024
+540|n-n|sure straight win for today
+541|n-n|who will win the ballon d'or 2024
+542|c$n|uwinn result today
+543|n-n|who win mike or jake
+544|n-n|did mike tyson win against jake paul
+545|c-n|the raffle
+546|c-n|raffle ticket
+547|c-n|raffle draw online
+548|c$n|big ticket abu dhabi raffle draw
+549|c$n|muscat duty free raffle
+550|n-n|raffle draw box
+551|c$n|dsf raffle draw today winner prize money
+552|sfn|lulu abu dhabi offers
+553|s$n|adcb credit card offers
+554|s-n|national day offers
+555|sfn|viva offers
+556|s$n|fab credit card offers
+557|s-n|عروض اليوم الوطني
+558|n-n|نون
+559|stn|عروض العمرة
+560|n-n|bmw competition
+561|n-n|chopin competition
+562|cvn|auto trader electric car giveaway
+563|c-n|cadbury giveaway
+564|n-n|giveaway winner picker
+565|n-n|facebook giveaway picker
+566|cvn|dreamcars giveaway
+567|con|carp gear giveaway
+568|s-n|black friday deals 2025
+569|s-n|black friday 2025
+570|skn|iphone 17 deals
+571|skn|ee sim only deals
+572|skn|sim only deals uk
+573|c$n|bet365 offer
+574|c$n|bet365 national offer
+575|c$n|bet365 grand national offer
+576|c$n|bet 365 offer
+577|c$n|bet365 opening offer
+578|c$n|bet365 joining offer
+579|c$n|bet365 mobile offer
+580|gkn|gemini student offer
+581|n-n|the offer cast
+582|c$n|bet365 grand national each way offer
+583|c$n|bet365 grand national offer 2025
+584|gkn|google gemini student offer
+585|s$n|hsbc offers
+586|s$n|nbd credit card offers
+587|stn|عروض طيران العربية
+588|sfn|عروض كارفور أبوظبي
+589|stn|عروض العربية للطيران
+590|c-n|smooth radio competition
+591|n-n|hyrox competition
+592|cvn|the car competition
+593|n-n|m8 competition
+594|n-n|elite competition
+595|n-n|bmw m8 competition
+596|n-n|bbc 500 words competition
+597|ckn|free game giveaway
+598|ckn|gaming giveaway
+599|ghn|barbican conservatory plant giveaway
+600|c$n|mrbeast giveaway
+601|c-n|the giveaway guys uk
+602|c-n|wtf giveaway
+603|ghn|barbican plants giveaway
+604|skn|sim deals
+605|stn|hotel deals
+606|skn|o2 deals
+607|s-n|amazon deals
+608|skn|phone deals uk
+609|skn|best broadband deals
+610|skn|best sim only deals
+611|n-n|jobs
+612|n-n|travel
+613|n-n|hotels
+614|n-n|banks
+615|n-n|david coulthard pub business offer
+616|n-n|schools
+617|n-n|coffee
+618|n-n|events
+619|sfn|asda new customer offer
+620|s$n|nationwide £75 gift card offer
+621|n-n|concerts
+622|n-n|vegetables
+623|n-n|salad
+624|sbn|boots 4 for 2 offer
+625|sfn|asda sign up offer
+626|n-n|richarlison rejects everton offer
+627|stn|priority pass offer code
+628|n-n|jj gabriel scholarship offer united
+629|c$n|kishore pandurang rao uae lottery win
+630|n-n|honor win
+631|n-n|who win ballon d'or 2026
+632|n-n|who win israel election
+633|n-n|did abdul win
+634|n-n|honor win rt
+635|n-n|did abdul el sayed win
+636|n-n|who will win ballon d'or 2026
+637|n-n|ind vs win
+638|n-n|did netanyahu win the election
+639|n-n|how to win the podium vehicle every time
+640|n-n|how to win formula 2k
+641|n-n|how to win formula 2k20
+642|c$n|kerala expat big ticket win
+643|n-n|who will win the ballon d or 2026
+644|c$n|one participant wins dh100 000 and three win dh50 000 in august 29 draw
+645|n-n|who will win israel election 2026
+646|n-n|if democrats win midterms what happens
+647|n-n|who is going to win the ballon d'or 2026
+648|c$n|indian expats big ticket raffle
+649|n-n|raffle box
+650|n-n|raffle drum
+651|c-n|day to day raffle draw
+652|n-n|palazzo versace dubai
+653|s$n|hsbc credit card offers
+654|n-n|bdswiss
+655|n-n|farfetch
+656|n-n|avatrade
+657|n-n|net a porter
+658|n-n|shein official
+659|sbn|shein promo
+660|n-n|gate review
+661|n-n|bdswiss review
+662|n-n|gate exchange
+663|sfn|لولو عروض
+664|s-n|واو ديلز عروض وصفقات المتاجر
+665|sbn|عروض عطور
+666|s-n|عروض ابراق
+667|sfn|عروض جمعية عجمان
+668|stn|عروض فوكس سينما

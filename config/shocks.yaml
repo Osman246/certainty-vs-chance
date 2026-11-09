@@ -1,0 +1,32 @@
+# Economic shocks used as breakpoints in the regression.
+# Dates are the first month the shock is in effect (monthly data).
+
+GB:
+  - id: covid_lockdown
+    date: "2020-03-01"
+    label: "First UK lockdown (23 Mar 2020)"
+  - id: energy_cap
+    date: "2022-04-01"
+    label: "Energy price cap rise (1 Apr 2022), start of the cost-of-living squeeze"
+  - id: hormuz_energy
+    date: "2026-03-01"
+    label: "Iran war energy shock reaches UK (Hormuz closure, early Mar 2026)"
+
+AE:
+  - id: covid_lockdown
+    date: "2020-03-01"
+    label: "UAE COVID restrictions (Mar 2020)"
+  - id: iran_war
+    date: "2026-03-01"
+    label: "Strikes on the UAE begin (28 Feb 2026)"
+  - id: ceasefire
+    date: "2026-04-01"
+    label: "Ceasefire takes hold (8 Apr 2026), tentative"
+    slope: false   # only 1 month after the war began: a separate trend term would be collinear
+
+# Direct (UAE) vs indirect (UK, via energy prices) exposure to the same 2026 shock.
+# Not a clean control: the UK was also hit, so delta = extra effect of direct exposure.
+did:
+  treated: AE
+  control: GB
+  post_start: "2026-03-01"

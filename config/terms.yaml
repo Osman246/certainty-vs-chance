@@ -1,0 +1,55 @@
+# Search terms for the Certainty Index, grouped by circle.
+#   side: chance | certainty  -> in the index
+#   side: context             -> wider-circle covariates, charted but not in the index
+#   side: excluded            -> collected but dropped, with the reason
+#
+# Each term is collected ON ITS OWN (0-100 on its own scale), then expressed relative to its
+# own 2019 average. The index measures CHANGE since 2019, not raw volume, because Google's
+# 0-100 scaling rounds small terms to zero when they share a request with big ones.
+
+window:
+  start: "2019-01-01"
+  end: "2026-10-31"
+  baseline_year: 2019
+  season_months: [8, 9, 10]   # Aug-Oct, like for like (2026 has no complete November yet)
+
+countries:
+  GB:
+    geo: "GB"
+    terms:
+      - {term: "competition",       side: chance,    circle: inner}
+      - {term: "competitions",      side: chance,    circle: inner}
+      - {term: "prize draw",        side: chance,    circle: inner}
+      - {term: "instant win",       side: chance,    circle: inner}
+      - {term: "giveaway",          side: chance,    circle: inner}
+      - {term: "win a",             side: chance,    circle: inner}
+      - {term: "cashback",          side: certainty, circle: industry}
+      - {term: "voucher code",      side: certainty, circle: industry}
+      - {term: "discount code",     side: certainty, circle: industry}
+      - {term: "free gift",         side: certainty, circle: industry}
+      - {term: "loyalty points",    side: certainty, circle: industry}
+      - {term: "cost of living",    side: context,   circle: wider}
+      - {term: "buy now pay later", side: context,   circle: wider}
+      - {term: "klarna",            side: context,   circle: wider}
+      - {term: "luxury",            side: context,   circle: wider}
+      - {term: "budget meals",      side: context,   circle: wider}
+      - {term: "clubcard prices",   side: excluded,  circle: industry, reason: "brand launch spike Oct 2020 swamps the signal"}
+
+  AE:
+    geo: "AE"
+    terms:
+      - {term: "raffle",            side: chance,    circle: inner}
+      - {term: "giveaway",          side: chance,    circle: inner}
+      - {term: "مسابقة",            side: chance,    circle: inner}   # competition
+      - {term: "سحب",               side: chance,    circle: inner}   # draw (also 'withdraw': noisy, robustness check)
+      - {term: "win",               side: chance,    circle: inner}
+      - {term: "cashback",          side: certainty, circle: industry}
+      - {term: "discount code",     side: certainty, circle: industry}
+      - {term: "coupon",            side: certainty, circle: industry}
+      - {term: "كوبون",             side: certainty, circle: industry} # coupon
+      - {term: "خصم",               side: certainty, circle: industry} # discount
+      - {term: "عروض",              side: certainty, circle: industry} # offers
+      - {term: "tabby",             side: context,   circle: wider}    # main UAE BNPL brand
+      - {term: "luxury",            side: context,   circle: wider}
+      - {term: "Dubai Shopping Festival", side: context, circle: wider}
+      - {term: "اربح",              side: excluded,  circle: inner, reason: "too low volume: 22 of 94 months are zero"}

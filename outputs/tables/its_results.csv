@@ -1,0 +1,27 @@
+variant,country,term,effect,coef,ci_low,ci_high,p,r2
+main,GB,covid_lockdown,level jump,-0.2028,-0.3508,-0.0548,0.0072,0.8157
+main,GB,covid_lockdown,trend change / month,-0.0135,-0.0243,-0.0027,0.0145,0.8157
+main,GB,energy_cap,level jump,0.0207,-0.1522,0.1936,0.8146,0.8157
+main,GB,energy_cap,trend change / month,0.0013,-0.0091,0.0118,0.8046,0.8157
+main,GB,hormuz_energy,level jump,0.4842,0.3731,0.5954,0.0,0.8157
+main,GB,hormuz_energy,trend change / month,-0.0227,-0.0409,-0.0044,0.015,0.8157
+main,GB,ramadan,per full Ramadan month,0.0217,-0.0788,0.1221,0.6726,0.8157
+main,AE,covid_lockdown,level jump,0.1428,0.0001,0.2856,0.0499,0.7301
+main,AE,covid_lockdown,trend change / month,-0.0235,-0.0399,-0.0072,0.0048,0.7301
+main,AE,iran_war,level jump,0.1073,-0.0007,0.2153,0.0516,0.7301
+main,AE,iran_war,trend change / month,0.0509,0.01,0.0917,0.0148,0.7301
+main,AE,ceasefire,level jump,-0.2145,-0.4012,-0.0278,0.0243,0.7301
+main,AE,ramadan,per full Ramadan month,-0.0745,-0.2043,0.0552,0.2602,0.7301
+english_only,GB,covid_lockdown,level jump,-0.2028,-0.3508,-0.0548,0.0072,0.8157
+english_only,GB,covid_lockdown,trend change / month,-0.0135,-0.0243,-0.0027,0.0145,0.8157
+english_only,GB,energy_cap,level jump,0.0207,-0.1522,0.1936,0.8146,0.8157
+english_only,GB,energy_cap,trend change / month,0.0013,-0.0091,0.0118,0.8046,0.8157
+english_only,GB,hormuz_energy,level jump,0.4842,0.3731,0.5954,0.0,0.8157
+english_only,GB,hormuz_energy,trend change / month,-0.0227,-0.0409,-0.0044,0.015,0.8157
+english_only,GB,ramadan,per full Ramadan month,0.0217,-0.0788,0.1221,0.6726,0.8157
+english_only,AE,covid_lockdown,level jump,0.0811,-0.1258,0.288,0.4422,0.8468
+english_only,AE,covid_lockdown,trend change / month,-0.0167,-0.04,0.0066,0.1593,0.8468
+english_only,AE,iran_war,level jump,0.0924,-0.0316,0.2163,0.1442,0.8468
+english_only,AE,iran_war,trend change / month,0.0699,0.0029,0.1369,0.0407,0.8468
+english_only,AE,ceasefire,level jump,-0.2259,-0.5082,0.0564,0.1168,0.8468
+english_only,AE,ramadan,per full Ramadan month,0.0164,-0.1163,0.1491,0.8088,0.8468

@@ -1,0 +1,48 @@
+# Codebook for classifying Google Trends related search queries.
+# A query is short, so the fields are what a query can reveal; stance isn't knowable from a query.
+version: "1.0"
+
+fields:
+  reward_type:
+    description: "Which kind of reward or offer is the searcher after?"
+    labels:
+      chance:      "A prize they might win: win, competition, prize draw, raffle, giveaway, sweepstake, lottery-style draws, 'spend and win'."
+      cash_saving: "A guaranteed saving: discount, voucher/promo/coupon code, cashback, sale, deals, offers, price cuts."
+      free_gift:   "A guaranteed free item: free gift, freebie, gift with purchase, free sample."
+      loyalty:     "Points, member prices, loyalty schemes and cards."
+      credit:      "Pay later, instalments, credit offers (Klarna, Clearpay, Tabby, Tamara)."
+      none:        "Not about a reward or offer (e.g. 'free games', 'vpn', song names, sport results, news)."
+
+  object:
+    description: "What is being chased (the prize, or the thing being bought/saved on)? 'none' if unclear."
+    labels:
+      cash:        "Money itself: cash prizes, cashback amounts, bank offers, money transfer deals."
+      travel:      "Holidays, flights, hotels, experiences, events tickets."
+      car:         "Cars, vehicles, fuel."
+      tech:        "Phones, consoles, gadgets, gaming, electronics, telecom plans."
+      groceries:   "Food, supermarkets, delivery apps, restaurants, household essentials."
+      fashion_beauty: "Clothes, shoes, beauty, perfume, jewellery."
+      home:        "Furniture, home, DIY, energy bills, property."
+      other:       "Identifiable but none of the above (e.g. kids' toys, pets)."
+      none:        "No object identifiable, or not a reward query."
+
+  money_pressure:
+    description: "Does the query itself signal budget pressure?"
+    labels:
+      "yes": "Cheap/cheapest, budget, cost of living, payment support, salary, bills, 'free food', debt, 'under £X'."
+      "no":  "No budget signal."
+
+examples:
+  - {query: "win a car",                reward_type: chance,      object: car,       money_pressure: "no"}
+  - {query: "cost of living payment",   reward_type: none,        object: home,      money_pressure: "yes"}
+  - {query: "amazon voucher code",      reward_type: cash_saving, object: other,     money_pressure: "no"}
+  - {query: "dubai duty free raffle",   reward_type: chance,      object: cash,      money_pressure: "no"}
+  - {query: "talabat offers",           reward_type: cash_saving, object: groceries, money_pressure: "no"}
+  - {query: "free games",               reward_type: none,        object: none,      money_pressure: "no"}
+  - {query: "tesco clubcard",           reward_type: loyalty,     object: groceries, money_pressure: "no"}
+  - {query: "cheap flights deals",      reward_type: cash_saving, object: travel,    money_pressure: "yes"}
+
+# Analysis notes:
+#  - The reward mix is measured only on NEUTRAL seeds (GB: deals, offer; AE: offers, عروض), because a
+#    query found under the seed "cashback" is about cashback by construction.
+#  - Object and money_pressure are measured on all seeds.

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.DS_Store
+# outputs of optional extensions that need API keys
+data/raw/posts.csv
+data/labels/claude_run*.csv
+video/out/
+video/fonts/

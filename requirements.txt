@@ -1,0 +1,13 @@
+# Tested 8 Nov 2026 on Python 3.13 with: pandas 3.1.1, numpy 2.5.4, statsmodels 0.15.0, scikit-learn 1.9.1, matplotlib 3.11.2
+pandas>=2.0
+numpy>=1.26
+scikit-learn>=1.4
+statsmodels>=0.14
+matplotlib>=3.8
+pyyaml>=6.0
+pytrends>=4.9
+anthropic>=0.40
+praw>=7.7
+# optional, for the full unsupervised + embedding steps (large install):
+# bertopic>=0.16
+# sentence-transformers>=3.0

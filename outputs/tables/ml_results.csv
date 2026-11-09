@@ -1,0 +1,4 @@
+model,n,accuracy,macro_f1,kappa_vs_claude,adjusted_rand_index,mean_cluster_purity
+"logistic regression (char n-grams), 5-fold CV",668,0.912,0.838,0.868,,
+keyword rules (no learning),669,0.731,0.388,0.584,,
+unsupervised NMF clusters (k=8) vs Claude labels,669,,,,0.243,0.793

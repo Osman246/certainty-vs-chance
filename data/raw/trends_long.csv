@@ -1,0 +1,3009 @@
+date,country,term,interest
+2019-01-01,GB,competition,54
+2019-02-01,GB,competition,61
+2019-03-01,GB,competition,61
+2019-04-01,GB,competition,56
+2019-05-01,GB,competition,60
+2019-06-01,GB,competition,62
+2019-07-01,GB,competition,56
+2019-08-01,GB,competition,52
+2019-09-01,GB,competition,57
+2019-10-01,GB,competition,54
+2019-11-01,GB,competition,67
+2019-12-01,GB,competition,50
+2020-01-01,GB,competition,52
+2020-02-01,GB,competition,64
+2020-03-01,GB,competition,49
+2020-04-01,GB,competition,48
+2020-05-01,GB,competition,53
+2020-06-01,GB,competition,55
+2020-07-01,GB,competition,54
+2020-08-01,GB,competition,45
+2020-09-01,GB,competition,52
+2020-10-01,GB,competition,54
+2020-11-01,GB,competition,50
+2020-12-01,GB,competition,50
+2021-01-01,GB,competition,45
+2021-02-01,GB,competition,51
+2021-03-01,GB,competition,58
+2021-04-01,GB,competition,52
+2021-05-01,GB,competition,52
+2021-06-01,GB,competition,53
+2021-07-01,GB,competition,53
+2021-08-01,GB,competition,49
+2021-09-01,GB,competition,52
+2021-10-01,GB,competition,49
+2021-11-01,GB,competition,49
+2021-12-01,GB,competition,48
+2022-01-01,GB,competition,50
+2022-02-01,GB,competition,54
+2022-03-01,GB,competition,60
+2022-04-01,GB,competition,58
+2022-05-01,GB,competition,58
+2022-06-01,GB,competition,58
+2022-07-01,GB,competition,51
+2022-08-01,GB,competition,54
+2022-09-01,GB,competition,53
+2022-10-01,GB,competition,53
+2022-11-01,GB,competition,60
+2022-12-01,GB,competition,54
+2023-01-01,GB,competition,56
+2023-02-01,GB,competition,60
+2023-03-01,GB,competition,66
+2023-04-01,GB,competition,58
+2023-05-01,GB,competition,58
+2023-06-01,GB,competition,58
+2023-07-01,GB,competition,53
+2023-08-01,GB,competition,51
+2023-09-01,GB,competition,57
+2023-10-01,GB,competition,55
+2023-11-01,GB,competition,63
+2023-12-01,GB,competition,55
+2024-01-01,GB,competition,54
+2024-02-01,GB,competition,56
+2024-03-01,GB,competition,63
+2024-04-01,GB,competition,54
+2024-05-01,GB,competition,55
+2024-06-01,GB,competition,55
+2024-07-01,GB,competition,50
+2024-08-01,GB,competition,54
+2024-09-01,GB,competition,54
+2024-10-01,GB,competition,60
+2024-11-01,GB,competition,60
+2024-12-01,GB,competition,57
+2025-01-01,GB,competition,57
+2025-02-01,GB,competition,63
+2025-03-01,GB,competition,64
+2025-04-01,GB,competition,61
+2025-05-01,GB,competition,58
+2025-06-01,GB,competition,59
+2025-07-01,GB,competition,53
+2025-08-01,GB,competition,53
+2025-09-01,GB,competition,58
+2025-10-01,GB,competition,64
+2025-11-01,GB,competition,72
+2025-12-01,GB,competition,77
+2026-01-01,GB,competition,81
+2026-02-01,GB,competition,100
+2026-03-01,GB,competition,83
+2026-04-01,GB,competition,78
+2026-05-01,GB,competition,73
+2026-06-01,GB,competition,67
+2026-07-01,GB,competition,73
+2026-08-01,GB,competition,80
+2026-09-01,GB,competition,80
+2026-10-01,GB,competition,63
+2019-01-01,GB,competitions,44
+2019-02-01,GB,competitions,58
+2019-03-01,GB,competitions,43
+2019-04-01,GB,competitions,41
+2019-05-01,GB,competitions,44
+2019-06-01,GB,competitions,45
+2019-07-01,GB,competitions,46
+2019-08-01,GB,competitions,43
+2019-09-01,GB,competitions,38
+2019-10-01,GB,competitions,39
+2019-11-01,GB,competitions,45
+2019-12-01,GB,competitions,39
+2020-01-01,GB,competitions,42
+2020-02-01,GB,competitions,44
+2020-03-01,GB,competitions,34
+2020-04-01,GB,competitions,41
+2020-05-01,GB,competitions,45
+2020-06-01,GB,competitions,47
+2020-07-01,GB,competitions,50
+2020-08-01,GB,competitions,43
+2020-09-01,GB,competitions,48
+2020-10-01,GB,competitions,50
+2020-11-01,GB,competitions,53
+2020-12-01,GB,competitions,54
+2021-01-01,GB,competitions,56
+2021-02-01,GB,competitions,66
+2021-03-01,GB,competitions,74
+2021-04-01,GB,competitions,70
+2021-05-01,GB,competitions,74
+2021-06-01,GB,competitions,69
+2021-07-01,GB,competitions,68
+2021-08-01,GB,competitions,62
+2021-09-01,GB,competitions,60
+2021-10-01,GB,competitions,59
+2021-11-01,GB,competitions,58
+2021-12-01,GB,competitions,55
+2022-01-01,GB,competitions,56
+2022-02-01,GB,competitions,61
+2022-03-01,GB,competitions,61
+2022-04-01,GB,competitions,61
+2022-05-01,GB,competitions,60
+2022-06-01,GB,competitions,63
+2022-07-01,GB,competitions,61
+2022-08-01,GB,competitions,62
+2022-09-01,GB,competitions,59
+2022-10-01,GB,competitions,61
+2022-11-01,GB,competitions,62
+2022-12-01,GB,competitions,64
+2023-01-01,GB,competitions,73
+2023-02-01,GB,competitions,71
+2023-03-01,GB,competitions,76
+2023-04-01,GB,competitions,72
+2023-05-01,GB,competitions,75
+2023-06-01,GB,competitions,74
+2023-07-01,GB,competitions,79
+2023-08-01,GB,competitions,76
+2023-09-01,GB,competitions,68
+2023-10-01,GB,competitions,69
+2023-11-01,GB,competitions,71
+2023-12-01,GB,competitions,86
+2024-01-01,GB,competitions,73
+2024-02-01,GB,competitions,66
+2024-03-01,GB,competitions,68
+2024-04-01,GB,competitions,64
+2024-05-01,GB,competitions,63
+2024-06-01,GB,competitions,63
+2024-07-01,GB,competitions,63
+2024-08-01,GB,competitions,64
+2024-09-01,GB,competitions,68
+2024-10-01,GB,competitions,62
+2024-11-01,GB,competitions,72
+2024-12-01,GB,competitions,79
+2025-01-01,GB,competitions,75
+2025-02-01,GB,competitions,74
+2025-03-01,GB,competitions,68
+2025-04-01,GB,competitions,64
+2025-05-01,GB,competitions,70
+2025-06-01,GB,competitions,67
+2025-07-01,GB,competitions,67
+2025-08-01,GB,competitions,67
+2025-09-01,GB,competitions,64
+2025-10-01,GB,competitions,67
+2025-11-01,GB,competitions,70
+2025-12-01,GB,competitions,83
+2026-01-01,GB,competitions,77
+2026-02-01,GB,competitions,83
+2026-03-01,GB,competitions,81
+2026-04-01,GB,competitions,78
+2026-05-01,GB,competitions,77
+2026-06-01,GB,competitions,79
+2026-07-01,GB,competitions,89
+2026-08-01,GB,competitions,100
+2026-09-01,GB,competitions,87
+2026-10-01,GB,competitions,70
+2019-01-01,GB,prize draw,90
+2019-02-01,GB,prize draw,44
+2019-03-01,GB,prize draw,43
+2019-04-01,GB,prize draw,32
+2019-05-01,GB,prize draw,35
+2019-06-01,GB,prize draw,40
+2019-07-01,GB,prize draw,40
+2019-08-01,GB,prize draw,37
+2019-09-01,GB,prize draw,50
+2019-10-01,GB,prize draw,43
+2019-11-01,GB,prize draw,41
+2019-12-01,GB,prize draw,45
+2020-01-01,GB,prize draw,43
+2020-02-01,GB,prize draw,43
+2020-03-01,GB,prize draw,33
+2020-04-01,GB,prize draw,36
+2020-05-01,GB,prize draw,47
+2020-06-01,GB,prize draw,42
+2020-07-01,GB,prize draw,45
+2020-08-01,GB,prize draw,41
+2020-09-01,GB,prize draw,39
+2020-10-01,GB,prize draw,42
+2020-11-01,GB,prize draw,47
+2020-12-01,GB,prize draw,54
+2021-01-01,GB,prize draw,35
+2021-02-01,GB,prize draw,43
+2021-03-01,GB,prize draw,47
+2021-04-01,GB,prize draw,40
+2021-05-01,GB,prize draw,55
+2021-06-01,GB,prize draw,68
+2021-07-01,GB,prize draw,49
+2021-08-01,GB,prize draw,56
+2021-09-01,GB,prize draw,47
+2021-10-01,GB,prize draw,49
+2021-11-01,GB,prize draw,40
+2021-12-01,GB,prize draw,52
+2022-01-01,GB,prize draw,38
+2022-02-01,GB,prize draw,42
+2022-03-01,GB,prize draw,42
+2022-04-01,GB,prize draw,40
+2022-05-01,GB,prize draw,40
+2022-06-01,GB,prize draw,42
+2022-07-01,GB,prize draw,46
+2022-08-01,GB,prize draw,44
+2022-09-01,GB,prize draw,36
+2022-10-01,GB,prize draw,46
+2022-11-01,GB,prize draw,58
+2022-12-01,GB,prize draw,45
+2023-01-01,GB,prize draw,39
+2023-02-01,GB,prize draw,39
+2023-03-01,GB,prize draw,46
+2023-04-01,GB,prize draw,50
+2023-05-01,GB,prize draw,47
+2023-06-01,GB,prize draw,44
+2023-07-01,GB,prize draw,42
+2023-08-01,GB,prize draw,48
+2023-09-01,GB,prize draw,46
+2023-10-01,GB,prize draw,58
+2023-11-01,GB,prize draw,61
+2023-12-01,GB,prize draw,72
+2024-01-01,GB,prize draw,48
+2024-02-01,GB,prize draw,42
+2024-03-01,GB,prize draw,44
+2024-04-01,GB,prize draw,47
+2024-05-01,GB,prize draw,36
+2024-06-01,GB,prize draw,40
+2024-07-01,GB,prize draw,39
+2024-08-01,GB,prize draw,42
+2024-09-01,GB,prize draw,44
+2024-10-01,GB,prize draw,47
+2024-11-01,GB,prize draw,49
+2024-12-01,GB,prize draw,53
+2025-01-01,GB,prize draw,94
+2025-02-01,GB,prize draw,53
+2025-03-01,GB,prize draw,85
+2025-04-01,GB,prize draw,78
+2025-05-01,GB,prize draw,58
+2025-06-01,GB,prize draw,53
+2025-07-01,GB,prize draw,43
+2025-08-01,GB,prize draw,50
+2025-09-01,GB,prize draw,48
+2025-10-01,GB,prize draw,50
+2025-11-01,GB,prize draw,79
+2025-12-01,GB,prize draw,89
+2026-01-01,GB,prize draw,55
+2026-02-01,GB,prize draw,52
+2026-03-01,GB,prize draw,52
+2026-04-01,GB,prize draw,55
+2026-05-01,GB,prize draw,50
+2026-06-01,GB,prize draw,47
+2026-07-01,GB,prize draw,55
+2026-08-01,GB,prize draw,100
+2026-09-01,GB,prize draw,88
+2026-10-01,GB,prize draw,62
+2019-01-01,GB,instant win,33
+2019-02-01,GB,instant win,26
+2019-03-01,GB,instant win,52
+2019-04-01,GB,instant win,100
+2019-05-01,GB,instant win,34
+2019-06-01,GB,instant win,28
+2019-07-01,GB,instant win,31
+2019-08-01,GB,instant win,34
+2019-09-01,GB,instant win,32
+2019-10-01,GB,instant win,28
+2019-11-01,GB,instant win,44
+2019-12-01,GB,instant win,50
+2020-01-01,GB,instant win,27
+2020-02-01,GB,instant win,36
+2020-03-01,GB,instant win,27
+2020-04-01,GB,instant win,39
+2020-05-01,GB,instant win,44
+2020-06-01,GB,instant win,38
+2020-07-01,GB,instant win,40
+2020-08-01,GB,instant win,39
+2020-09-01,GB,instant win,34
+2020-10-01,GB,instant win,44
+2020-11-01,GB,instant win,46
+2020-12-01,GB,instant win,49
+2021-01-01,GB,instant win,52
+2021-02-01,GB,instant win,52
+2021-03-01,GB,instant win,56
+2021-04-01,GB,instant win,45
+2021-05-01,GB,instant win,43
+2021-06-01,GB,instant win,52
+2021-07-01,GB,instant win,40
+2021-08-01,GB,instant win,50
+2021-09-01,GB,instant win,73
+2021-10-01,GB,instant win,55
+2021-11-01,GB,instant win,39
+2021-12-01,GB,instant win,56
+2022-01-01,GB,instant win,48
+2022-02-01,GB,instant win,40
+2022-03-01,GB,instant win,37
+2022-04-01,GB,instant win,31
+2022-05-01,GB,instant win,43
+2022-06-01,GB,instant win,44
+2022-07-01,GB,instant win,49
+2022-08-01,GB,instant win,61
+2022-09-01,GB,instant win,63
+2022-10-01,GB,instant win,75
+2022-11-01,GB,instant win,47
+2022-12-01,GB,instant win,57
+2023-01-01,GB,instant win,49
+2023-02-01,GB,instant win,49
+2023-03-01,GB,instant win,50
+2023-04-01,GB,instant win,58
+2023-05-01,GB,instant win,47
+2023-06-01,GB,instant win,48
+2023-07-01,GB,instant win,48
+2023-08-01,GB,instant win,53
+2023-09-01,GB,instant win,52
+2023-10-01,GB,instant win,52
+2023-11-01,GB,instant win,57
+2023-12-01,GB,instant win,68
+2024-01-01,GB,instant win,57
+2024-02-01,GB,instant win,53
+2024-03-01,GB,instant win,63
+2024-04-01,GB,instant win,52
+2024-05-01,GB,instant win,51
+2024-06-01,GB,instant win,61
+2024-07-01,GB,instant win,54
+2024-08-01,GB,instant win,57
+2024-09-01,GB,instant win,70
+2024-10-01,GB,instant win,63
+2024-11-01,GB,instant win,65
+2024-12-01,GB,instant win,73
+2025-01-01,GB,instant win,73
+2025-02-01,GB,instant win,62
+2025-03-01,GB,instant win,65
+2025-04-01,GB,instant win,65
+2025-05-01,GB,instant win,66
+2025-06-01,GB,instant win,77
+2025-07-01,GB,instant win,77
+2025-08-01,GB,instant win,79
+2025-09-01,GB,instant win,83
+2025-10-01,GB,instant win,74
+2025-11-01,GB,instant win,73
+2025-12-01,GB,instant win,82
+2026-01-01,GB,instant win,82
+2026-02-01,GB,instant win,68
+2026-03-01,GB,instant win,79
+2026-04-01,GB,instant win,72
+2026-05-01,GB,instant win,75
+2026-06-01,GB,instant win,73
+2026-07-01,GB,instant win,74
+2026-08-01,GB,instant win,77
+2026-09-01,GB,instant win,66
+2026-10-01,GB,instant win,60
+2019-01-01,GB,giveaway,24
+2019-02-01,GB,giveaway,25
+2019-03-01,GB,giveaway,25
+2019-04-01,GB,giveaway,27
+2019-05-01,GB,giveaway,32
+2019-06-01,GB,giveaway,32
+2019-07-01,GB,giveaway,35
+2019-08-01,GB,giveaway,35
+2019-09-01,GB,giveaway,33
+2019-10-01,GB,giveaway,31
+2019-11-01,GB,giveaway,40
+2019-12-01,GB,giveaway,43
+2020-01-01,GB,giveaway,36
+2020-02-01,GB,giveaway,38
+2020-03-01,GB,giveaway,35
+2020-04-01,GB,giveaway,60
+2020-05-01,GB,giveaway,63
+2020-06-01,GB,giveaway,59
+2020-07-01,GB,giveaway,64
+2020-08-01,GB,giveaway,48
+2020-09-01,GB,giveaway,54
+2020-10-01,GB,giveaway,79
+2020-11-01,GB,giveaway,63
+2020-12-01,GB,giveaway,62
+2021-01-01,GB,giveaway,56
+2021-02-01,GB,giveaway,59
+2021-03-01,GB,giveaway,66
+2021-04-01,GB,giveaway,60
+2021-05-01,GB,giveaway,52
+2021-06-01,GB,giveaway,47
+2021-07-01,GB,giveaway,49
+2021-08-01,GB,giveaway,46
+2021-09-01,GB,giveaway,51
+2021-10-01,GB,giveaway,44
+2021-11-01,GB,giveaway,47
+2021-12-01,GB,giveaway,52
+2022-01-01,GB,giveaway,46
+2022-02-01,GB,giveaway,51
+2022-03-01,GB,giveaway,52
+2022-04-01,GB,giveaway,58
+2022-05-01,GB,giveaway,62
+2022-06-01,GB,giveaway,67
+2022-07-01,GB,giveaway,58
+2022-08-01,GB,giveaway,54
+2022-09-01,GB,giveaway,48
+2022-10-01,GB,giveaway,54
+2022-11-01,GB,giveaway,64
+2022-12-01,GB,giveaway,61
+2023-01-01,GB,giveaway,49
+2023-02-01,GB,giveaway,53
+2023-03-01,GB,giveaway,53
+2023-04-01,GB,giveaway,54
+2023-05-01,GB,giveaway,59
+2023-06-01,GB,giveaway,53
+2023-07-01,GB,giveaway,70
+2023-08-01,GB,giveaway,59
+2023-09-01,GB,giveaway,54
+2023-10-01,GB,giveaway,63
+2023-11-01,GB,giveaway,65
+2023-12-01,GB,giveaway,71
+2024-01-01,GB,giveaway,59
+2024-02-01,GB,giveaway,64
+2024-03-01,GB,giveaway,70
+2024-04-01,GB,giveaway,61
+2024-05-01,GB,giveaway,58
+2024-06-01,GB,giveaway,58
+2024-07-01,GB,giveaway,59
+2024-08-01,GB,giveaway,69
+2024-09-01,GB,giveaway,63
+2024-10-01,GB,giveaway,69
+2024-11-01,GB,giveaway,67
+2024-12-01,GB,giveaway,94
+2025-01-01,GB,giveaway,51
+2025-02-01,GB,giveaway,53
+2025-03-01,GB,giveaway,66
+2025-04-01,GB,giveaway,66
+2025-05-01,GB,giveaway,53
+2025-06-01,GB,giveaway,56
+2025-07-01,GB,giveaway,56
+2025-08-01,GB,giveaway,66
+2025-09-01,GB,giveaway,59
+2025-10-01,GB,giveaway,57
+2025-11-01,GB,giveaway,64
+2025-12-01,GB,giveaway,100
+2026-01-01,GB,giveaway,64
+2026-02-01,GB,giveaway,63
+2026-03-01,GB,giveaway,58
+2026-04-01,GB,giveaway,62
+2026-05-01,GB,giveaway,70
+2026-06-01,GB,giveaway,63
+2026-07-01,GB,giveaway,62
+2026-08-01,GB,giveaway,93
+2026-09-01,GB,giveaway,79
+2026-10-01,GB,giveaway,50
+2019-01-01,GB,win a,31
+2019-02-01,GB,win a,31
+2019-03-01,GB,win a,35
+2019-04-01,GB,win a,32
+2019-05-01,GB,win a,32
+2019-06-01,GB,win a,28
+2019-07-01,GB,win a,28
+2019-08-01,GB,win a,26
+2019-09-01,GB,win a,29
+2019-10-01,GB,win a,28
+2019-11-01,GB,win a,34
+2019-12-01,GB,win a,43
+2020-01-01,GB,win a,31
+2020-02-01,GB,win a,33
+2020-03-01,GB,win a,27
+2020-04-01,GB,win a,41
+2020-05-01,GB,win a,41
+2020-06-01,GB,win a,36
+2020-07-01,GB,win a,36
+2020-08-01,GB,win a,32
+2020-09-01,GB,win a,29
+2020-10-01,GB,win a,31
+2020-11-01,GB,win a,42
+2020-12-01,GB,win a,39
+2021-01-01,GB,win a,36
+2021-02-01,GB,win a,41
+2021-03-01,GB,win a,43
+2021-04-01,GB,win a,33
+2021-05-01,GB,win a,37
+2021-06-01,GB,win a,35
+2021-07-01,GB,win a,49
+2021-08-01,GB,win a,32
+2021-09-01,GB,win a,31
+2021-10-01,GB,win a,28
+2021-11-01,GB,win a,28
+2021-12-01,GB,win a,36
+2022-01-01,GB,win a,33
+2022-02-01,GB,win a,39
+2022-03-01,GB,win a,37
+2022-04-01,GB,win a,39
+2022-05-01,GB,win a,38
+2022-06-01,GB,win a,34
+2022-07-01,GB,win a,36
+2022-08-01,GB,win a,32
+2022-09-01,GB,win a,30
+2022-10-01,GB,win a,34
+2022-11-01,GB,win a,50
+2022-12-01,GB,win a,38
+2023-01-01,GB,win a,34
+2023-02-01,GB,win a,41
+2023-03-01,GB,win a,38
+2023-04-01,GB,win a,39
+2023-05-01,GB,win a,39
+2023-06-01,GB,win a,36
+2023-07-01,GB,win a,38
+2023-08-01,GB,win a,36
+2023-09-01,GB,win a,34
+2023-10-01,GB,win a,36
+2023-11-01,GB,win a,37
+2023-12-01,GB,win a,45
+2024-01-01,GB,win a,39
+2024-02-01,GB,win a,41
+2024-03-01,GB,win a,44
+2024-04-01,GB,win a,42
+2024-05-01,GB,win a,42
+2024-06-01,GB,win a,40
+2024-07-01,GB,win a,64
+2024-08-01,GB,win a,38
+2024-09-01,GB,win a,36
+2024-10-01,GB,win a,39
+2024-11-01,GB,win a,47
+2024-12-01,GB,win a,49
+2025-01-01,GB,win a,40
+2025-02-01,GB,win a,46
+2025-03-01,GB,win a,52
+2025-04-01,GB,win a,50
+2025-05-01,GB,win a,55
+2025-06-01,GB,win a,45
+2025-07-01,GB,win a,50
+2025-08-01,GB,win a,46
+2025-09-01,GB,win a,48
+2025-10-01,GB,win a,60
+2025-11-01,GB,win a,60
+2025-12-01,GB,win a,74
+2026-01-01,GB,win a,65
+2026-02-01,GB,win a,79
+2026-03-01,GB,win a,66
+2026-04-01,GB,win a,73
+2026-05-01,GB,win a,83
+2026-06-01,GB,win a,86
+2026-07-01,GB,win a,100
+2026-08-01,GB,win a,71
+2026-09-01,GB,win a,72
+2026-10-01,GB,win a,71
+2019-01-01,GB,cashback,37
+2019-02-01,GB,cashback,30
+2019-03-01,GB,cashback,28
+2019-04-01,GB,cashback,31
+2019-05-01,GB,cashback,35
+2019-06-01,GB,cashback,38
+2019-07-01,GB,cashback,36
+2019-08-01,GB,cashback,35
+2019-09-01,GB,cashback,34
+2019-10-01,GB,cashback,37
+2019-11-01,GB,cashback,48
+2019-12-01,GB,cashback,45
+2020-01-01,GB,cashback,42
+2020-02-01,GB,cashback,35
+2020-03-01,GB,cashback,32
+2020-04-01,GB,cashback,29
+2020-05-01,GB,cashback,29
+2020-06-01,GB,cashback,27
+2020-07-01,GB,cashback,31
+2020-08-01,GB,cashback,28
+2020-09-01,GB,cashback,29
+2020-10-01,GB,cashback,31
+2020-11-01,GB,cashback,40
+2020-12-01,GB,cashback,37
+2021-01-01,GB,cashback,29
+2021-02-01,GB,cashback,28
+2021-03-01,GB,cashback,27
+2021-04-01,GB,cashback,21
+2021-05-01,GB,cashback,22
+2021-06-01,GB,cashback,27
+2021-07-01,GB,cashback,24
+2021-08-01,GB,cashback,22
+2021-09-01,GB,cashback,20
+2021-10-01,GB,cashback,28
+2021-11-01,GB,cashback,33
+2021-12-01,GB,cashback,34
+2022-01-01,GB,cashback,33
+2022-02-01,GB,cashback,30
+2022-03-01,GB,cashback,32
+2022-04-01,GB,cashback,32
+2022-05-01,GB,cashback,32
+2022-06-01,GB,cashback,33
+2022-07-01,GB,cashback,32
+2022-08-01,GB,cashback,36
+2022-09-01,GB,cashback,35
+2022-10-01,GB,cashback,34
+2022-11-01,GB,cashback,40
+2022-12-01,GB,cashback,34
+2023-01-01,GB,cashback,31
+2023-02-01,GB,cashback,35
+2023-03-01,GB,cashback,33
+2023-04-01,GB,cashback,30
+2023-05-01,GB,cashback,28
+2023-06-01,GB,cashback,30
+2023-07-01,GB,cashback,29
+2023-08-01,GB,cashback,25
+2023-09-01,GB,cashback,28
+2023-10-01,GB,cashback,27
+2023-11-01,GB,cashback,37
+2023-12-01,GB,cashback,33
+2024-01-01,GB,cashback,34
+2024-02-01,GB,cashback,31
+2024-03-01,GB,cashback,29
+2024-04-01,GB,cashback,28
+2024-05-01,GB,cashback,27
+2024-06-01,GB,cashback,30
+2024-07-01,GB,cashback,28
+2024-08-01,GB,cashback,28
+2024-09-01,GB,cashback,32
+2024-10-01,GB,cashback,30
+2024-11-01,GB,cashback,34
+2024-12-01,GB,cashback,34
+2025-01-01,GB,cashback,31
+2025-02-01,GB,cashback,29
+2025-03-01,GB,cashback,31
+2025-04-01,GB,cashback,29
+2025-05-01,GB,cashback,30
+2025-06-01,GB,cashback,29
+2025-07-01,GB,cashback,34
+2025-08-01,GB,cashback,32
+2025-09-01,GB,cashback,33
+2025-10-01,GB,cashback,35
+2025-11-01,GB,cashback,43
+2025-12-01,GB,cashback,40
+2026-01-01,GB,cashback,41
+2026-02-01,GB,cashback,54
+2026-03-01,GB,cashback,89
+2026-04-01,GB,cashback,93
+2026-05-01,GB,cashback,86
+2026-06-01,GB,cashback,90
+2026-07-01,GB,cashback,100
+2026-08-01,GB,cashback,95
+2026-09-01,GB,cashback,84
+2026-10-01,GB,cashback,40
+2019-01-01,GB,voucher code,70
+2019-02-01,GB,voucher code,67
+2019-03-01,GB,voucher code,69
+2019-04-01,GB,voucher code,71
+2019-05-01,GB,voucher code,70
+2019-06-01,GB,voucher code,70
+2019-07-01,GB,voucher code,71
+2019-08-01,GB,voucher code,75
+2019-09-01,GB,voucher code,71
+2019-10-01,GB,voucher code,72
+2019-11-01,GB,voucher code,95
+2019-12-01,GB,voucher code,100
+2020-01-01,GB,voucher code,68
+2020-02-01,GB,voucher code,65
+2020-03-01,GB,voucher code,64
+2020-04-01,GB,voucher code,74
+2020-05-01,GB,voucher code,82
+2020-06-01,GB,voucher code,80
+2020-07-01,GB,voucher code,72
+2020-08-01,GB,voucher code,71
+2020-09-01,GB,voucher code,63
+2020-10-01,GB,voucher code,74
+2020-11-01,GB,voucher code,91
+2020-12-01,GB,voucher code,81
+2021-01-01,GB,voucher code,64
+2021-02-01,GB,voucher code,62
+2021-03-01,GB,voucher code,65
+2021-04-01,GB,voucher code,55
+2021-05-01,GB,voucher code,53
+2021-06-01,GB,voucher code,56
+2021-07-01,GB,voucher code,57
+2021-08-01,GB,voucher code,55
+2021-09-01,GB,voucher code,49
+2021-10-01,GB,voucher code,57
+2021-11-01,GB,voucher code,69
+2021-12-01,GB,voucher code,72
+2022-01-01,GB,voucher code,57
+2022-02-01,GB,voucher code,54
+2022-03-01,GB,voucher code,57
+2022-04-01,GB,voucher code,54
+2022-05-01,GB,voucher code,52
+2022-06-01,GB,voucher code,52
+2022-07-01,GB,voucher code,50
+2022-08-01,GB,voucher code,50
+2022-09-01,GB,voucher code,47
+2022-10-01,GB,voucher code,50
+2022-11-01,GB,voucher code,61
+2022-12-01,GB,voucher code,59
+2023-01-01,GB,voucher code,45
+2023-02-01,GB,voucher code,42
+2023-03-01,GB,voucher code,41
+2023-04-01,GB,voucher code,45
+2023-05-01,GB,voucher code,41
+2023-06-01,GB,voucher code,42
+2023-07-01,GB,voucher code,40
+2023-08-01,GB,voucher code,40
+2023-09-01,GB,voucher code,36
+2023-10-01,GB,voucher code,38
+2023-11-01,GB,voucher code,48
+2023-12-01,GB,voucher code,48
+2024-01-01,GB,voucher code,34
+2024-02-01,GB,voucher code,33
+2024-03-01,GB,voucher code,36
+2024-04-01,GB,voucher code,32
+2024-05-01,GB,voucher code,33
+2024-06-01,GB,voucher code,33
+2024-07-01,GB,voucher code,32
+2024-08-01,GB,voucher code,32
+2024-09-01,GB,voucher code,31
+2024-10-01,GB,voucher code,31
+2024-11-01,GB,voucher code,39
+2024-12-01,GB,voucher code,38
+2025-01-01,GB,voucher code,29
+2025-02-01,GB,voucher code,28
+2025-03-01,GB,voucher code,28
+2025-04-01,GB,voucher code,31
+2025-05-01,GB,voucher code,27
+2025-06-01,GB,voucher code,29
+2025-07-01,GB,voucher code,39
+2025-08-01,GB,voucher code,41
+2025-09-01,GB,voucher code,36
+2025-10-01,GB,voucher code,34
+2025-11-01,GB,voucher code,41
+2025-12-01,GB,voucher code,42
+2026-01-01,GB,voucher code,30
+2026-02-01,GB,voucher code,35
+2026-03-01,GB,voucher code,47
+2026-04-01,GB,voucher code,46
+2026-05-01,GB,voucher code,50
+2026-06-01,GB,voucher code,54
+2026-07-01,GB,voucher code,59
+2026-08-01,GB,voucher code,68
+2026-09-01,GB,voucher code,58
+2026-10-01,GB,voucher code,40
+2019-01-01,GB,discount code,43
+2019-02-01,GB,discount code,45
+2019-03-01,GB,discount code,44
+2019-04-01,GB,discount code,47
+2019-05-01,GB,discount code,48
+2019-06-01,GB,discount code,50
+2019-07-01,GB,discount code,49
+2019-08-01,GB,discount code,49
+2019-09-01,GB,discount code,48
+2019-10-01,GB,discount code,50
+2019-11-01,GB,discount code,65
+2019-12-01,GB,discount code,65
+2020-01-01,GB,discount code,47
+2020-02-01,GB,discount code,47
+2020-03-01,GB,discount code,42
+2020-04-01,GB,discount code,63
+2020-05-01,GB,discount code,70
+2020-06-01,GB,discount code,67
+2020-07-01,GB,discount code,64
+2020-08-01,GB,discount code,61
+2020-09-01,GB,discount code,59
+2020-10-01,GB,discount code,67
+2020-11-01,GB,discount code,100
+2020-12-01,GB,discount code,76
+2021-01-01,GB,discount code,70
+2021-02-01,GB,discount code,70
+2021-03-01,GB,discount code,75
+2021-04-01,GB,discount code,63
+2021-05-01,GB,discount code,64
+2021-06-01,GB,discount code,61
+2021-07-01,GB,discount code,62
+2021-08-01,GB,discount code,63
+2021-09-01,GB,discount code,55
+2021-10-01,GB,discount code,62
+2021-11-01,GB,discount code,82
+2021-12-01,GB,discount code,80
+2022-01-01,GB,discount code,65
+2022-02-01,GB,discount code,65
+2022-03-01,GB,discount code,67
+2022-04-01,GB,discount code,63
+2022-05-01,GB,discount code,58
+2022-06-01,GB,discount code,62
+2022-07-01,GB,discount code,60
+2022-08-01,GB,discount code,60
+2022-09-01,GB,discount code,54
+2022-10-01,GB,discount code,61
+2022-11-01,GB,discount code,75
+2022-12-01,GB,discount code,70
+2023-01-01,GB,discount code,54
+2023-02-01,GB,discount code,53
+2023-03-01,GB,discount code,53
+2023-04-01,GB,discount code,54
+2023-05-01,GB,discount code,55
+2023-06-01,GB,discount code,53
+2023-07-01,GB,discount code,54
+2023-08-01,GB,discount code,54
+2023-09-01,GB,discount code,50
+2023-10-01,GB,discount code,51
+2023-11-01,GB,discount code,69
+2023-12-01,GB,discount code,66
+2024-01-01,GB,discount code,50
+2024-02-01,GB,discount code,48
+2024-03-01,GB,discount code,48
+2024-04-01,GB,discount code,50
+2024-05-01,GB,discount code,52
+2024-06-01,GB,discount code,48
+2024-07-01,GB,discount code,51
+2024-08-01,GB,discount code,52
+2024-09-01,GB,discount code,50
+2024-10-01,GB,discount code,52
+2024-11-01,GB,discount code,67
+2024-12-01,GB,discount code,64
+2025-01-01,GB,discount code,48
+2025-02-01,GB,discount code,48
+2025-03-01,GB,discount code,49
+2025-04-01,GB,discount code,53
+2025-05-01,GB,discount code,49
+2025-06-01,GB,discount code,49
+2025-07-01,GB,discount code,61
+2025-08-01,GB,discount code,67
+2025-09-01,GB,discount code,56
+2025-10-01,GB,discount code,59
+2025-11-01,GB,discount code,70
+2025-12-01,GB,discount code,67
+2026-01-01,GB,discount code,51
+2026-02-01,GB,discount code,49
+2026-03-01,GB,discount code,62
+2026-04-01,GB,discount code,60
+2026-05-01,GB,discount code,64
+2026-06-01,GB,discount code,63
+2026-07-01,GB,discount code,66
+2026-08-01,GB,discount code,71
+2026-09-01,GB,discount code,70
+2026-10-01,GB,discount code,57
+2019-01-01,GB,free gift,32
+2019-02-01,GB,free gift,34
+2019-03-01,GB,free gift,34
+2019-04-01,GB,free gift,33
+2019-05-01,GB,free gift,32
+2019-06-01,GB,free gift,32
+2019-07-01,GB,free gift,36
+2019-08-01,GB,free gift,40
+2019-09-01,GB,free gift,39
+2019-10-01,GB,free gift,39
+2019-11-01,GB,free gift,57
+2019-12-01,GB,free gift,60
+2020-01-01,GB,free gift,36
+2020-02-01,GB,free gift,37
+2020-03-01,GB,free gift,32
+2020-04-01,GB,free gift,39
+2020-05-01,GB,free gift,43
+2020-06-01,GB,free gift,40
+2020-07-01,GB,free gift,40
+2020-08-01,GB,free gift,37
+2020-09-01,GB,free gift,38
+2020-10-01,GB,free gift,42
+2020-11-01,GB,free gift,56
+2020-12-01,GB,free gift,56
+2021-01-01,GB,free gift,38
+2021-02-01,GB,free gift,41
+2021-03-01,GB,free gift,41
+2021-04-01,GB,free gift,33
+2021-05-01,GB,free gift,31
+2021-06-01,GB,free gift,32
+2021-07-01,GB,free gift,31
+2021-08-01,GB,free gift,33
+2021-09-01,GB,free gift,33
+2021-10-01,GB,free gift,35
+2021-11-01,GB,free gift,45
+2021-12-01,GB,free gift,52
+2022-01-01,GB,free gift,36
+2022-02-01,GB,free gift,35
+2022-03-01,GB,free gift,34
+2022-04-01,GB,free gift,33
+2022-05-01,GB,free gift,30
+2022-06-01,GB,free gift,32
+2022-07-01,GB,free gift,33
+2022-08-01,GB,free gift,34
+2022-09-01,GB,free gift,37
+2022-10-01,GB,free gift,38
+2022-11-01,GB,free gift,52
+2022-12-01,GB,free gift,50
+2023-01-01,GB,free gift,35
+2023-02-01,GB,free gift,33
+2023-03-01,GB,free gift,36
+2023-04-01,GB,free gift,36
+2023-05-01,GB,free gift,37
+2023-06-01,GB,free gift,37
+2023-07-01,GB,free gift,37
+2023-08-01,GB,free gift,35
+2023-09-01,GB,free gift,34
+2023-10-01,GB,free gift,41
+2023-11-01,GB,free gift,48
+2023-12-01,GB,free gift,55
+2024-01-01,GB,free gift,34
+2024-02-01,GB,free gift,35
+2024-03-01,GB,free gift,36
+2024-04-01,GB,free gift,35
+2024-05-01,GB,free gift,33
+2024-06-01,GB,free gift,34
+2024-07-01,GB,free gift,35
+2024-08-01,GB,free gift,36
+2024-09-01,GB,free gift,38
+2024-10-01,GB,free gift,42
+2024-11-01,GB,free gift,53
+2024-12-01,GB,free gift,60
+2025-01-01,GB,free gift,37
+2025-02-01,GB,free gift,38
+2025-03-01,GB,free gift,37
+2025-04-01,GB,free gift,37
+2025-05-01,GB,free gift,42
+2025-06-01,GB,free gift,38
+2025-07-01,GB,free gift,40
+2025-08-01,GB,free gift,41
+2025-09-01,GB,free gift,46
+2025-10-01,GB,free gift,43
+2025-11-01,GB,free gift,65
+2025-12-01,GB,free gift,100
+2026-01-01,GB,free gift,48
+2026-02-01,GB,free gift,72
+2026-03-01,GB,free gift,56
+2026-04-01,GB,free gift,55
+2026-05-01,GB,free gift,55
+2026-06-01,GB,free gift,63
+2026-07-01,GB,free gift,59
+2026-08-01,GB,free gift,72
+2026-09-01,GB,free gift,58
+2026-10-01,GB,free gift,47
+2019-01-01,GB,loyalty points,37
+2019-02-01,GB,loyalty points,33
+2019-03-01,GB,loyalty points,40
+2019-04-01,GB,loyalty points,35
+2019-05-01,GB,loyalty points,37
+2019-06-01,GB,loyalty points,29
+2019-07-01,GB,loyalty points,34
+2019-08-01,GB,loyalty points,43
+2019-09-01,GB,loyalty points,40
+2019-10-01,GB,loyalty points,38
+2019-11-01,GB,loyalty points,34
+2019-12-01,GB,loyalty points,25
+2020-01-01,GB,loyalty points,43
+2020-02-01,GB,loyalty points,35
+2020-03-01,GB,loyalty points,25
+2020-04-01,GB,loyalty points,18
+2020-05-01,GB,loyalty points,25
+2020-06-01,GB,loyalty points,21
+2020-07-01,GB,loyalty points,22
+2020-08-01,GB,loyalty points,27
+2020-09-01,GB,loyalty points,24
+2020-10-01,GB,loyalty points,27
+2020-11-01,GB,loyalty points,26
+2020-12-01,GB,loyalty points,21
+2021-01-01,GB,loyalty points,21
+2021-02-01,GB,loyalty points,19
+2021-03-01,GB,loyalty points,23
+2021-04-01,GB,loyalty points,23
+2021-05-01,GB,loyalty points,26
+2021-06-01,GB,loyalty points,22
+2021-07-01,GB,loyalty points,29
+2021-08-01,GB,loyalty points,30
+2021-09-01,GB,loyalty points,34
+2021-10-01,GB,loyalty points,32
+2021-11-01,GB,loyalty points,28
+2021-12-01,GB,loyalty points,23
+2022-01-01,GB,loyalty points,35
+2022-02-01,GB,loyalty points,32
+2022-03-01,GB,loyalty points,35
+2022-04-01,GB,loyalty points,37
+2022-05-01,GB,loyalty points,31
+2022-06-01,GB,loyalty points,34
+2022-07-01,GB,loyalty points,35
+2022-08-01,GB,loyalty points,42
+2022-09-01,GB,loyalty points,34
+2022-10-01,GB,loyalty points,31
+2022-11-01,GB,loyalty points,36
+2022-12-01,GB,loyalty points,33
+2023-01-01,GB,loyalty points,39
+2023-02-01,GB,loyalty points,40
+2023-03-01,GB,loyalty points,37
+2023-04-01,GB,loyalty points,36
+2023-05-01,GB,loyalty points,31
+2023-06-01,GB,loyalty points,31
+2023-07-01,GB,loyalty points,34
+2023-08-01,GB,loyalty points,45
+2023-09-01,GB,loyalty points,37
+2023-10-01,GB,loyalty points,32
+2023-11-01,GB,loyalty points,34
+2023-12-01,GB,loyalty points,32
+2024-01-01,GB,loyalty points,43
+2024-02-01,GB,loyalty points,42
+2024-03-01,GB,loyalty points,36
+2024-04-01,GB,loyalty points,33
+2024-05-01,GB,loyalty points,27
+2024-06-01,GB,loyalty points,29
+2024-07-01,GB,loyalty points,36
+2024-08-01,GB,loyalty points,36
+2024-09-01,GB,loyalty points,34
+2024-10-01,GB,loyalty points,38
+2024-11-01,GB,loyalty points,33
+2024-12-01,GB,loyalty points,36
+2025-01-01,GB,loyalty points,39
+2025-02-01,GB,loyalty points,45
+2025-03-01,GB,loyalty points,39
+2025-04-01,GB,loyalty points,40
+2025-05-01,GB,loyalty points,46
+2025-06-01,GB,loyalty points,37
+2025-07-01,GB,loyalty points,35
+2025-08-01,GB,loyalty points,55
+2025-09-01,GB,loyalty points,47
+2025-10-01,GB,loyalty points,47
+2025-11-01,GB,loyalty points,76
+2025-12-01,GB,loyalty points,83
+2026-01-01,GB,loyalty points,88
+2026-02-01,GB,loyalty points,82
+2026-03-01,GB,loyalty points,80
+2026-04-01,GB,loyalty points,79
+2026-05-01,GB,loyalty points,54
+2026-06-01,GB,loyalty points,52
+2026-07-01,GB,loyalty points,100
+2026-08-01,GB,loyalty points,93
+2026-09-01,GB,loyalty points,94
+2026-10-01,GB,loyalty points,65
+2019-01-01,GB,clubcard prices,7
+2019-02-01,GB,clubcard prices,10
+2019-03-01,GB,clubcard prices,7
+2019-04-01,GB,clubcard prices,17
+2019-05-01,GB,clubcard prices,27
+2019-06-01,GB,clubcard prices,8
+2019-07-01,GB,clubcard prices,13
+2019-08-01,GB,clubcard prices,20
+2019-09-01,GB,clubcard prices,15
+2019-10-01,GB,clubcard prices,8
+2019-11-01,GB,clubcard prices,7
+2019-12-01,GB,clubcard prices,8
+2020-01-01,GB,clubcard prices,7
+2020-02-01,GB,clubcard prices,10
+2020-03-01,GB,clubcard prices,4
+2020-04-01,GB,clubcard prices,2
+2020-05-01,GB,clubcard prices,0
+2020-06-01,GB,clubcard prices,2
+2020-07-01,GB,clubcard prices,3
+2020-08-01,GB,clubcard prices,5
+2020-09-01,GB,clubcard prices,48
+2020-10-01,GB,clubcard prices,100
+2020-11-01,GB,clubcard prices,68
+2020-12-01,GB,clubcard prices,52
+2021-01-01,GB,clubcard prices,35
+2021-02-01,GB,clubcard prices,32
+2021-03-01,GB,clubcard prices,26
+2021-04-01,GB,clubcard prices,24
+2021-05-01,GB,clubcard prices,25
+2021-06-01,GB,clubcard prices,21
+2021-07-01,GB,clubcard prices,22
+2021-08-01,GB,clubcard prices,24
+2021-09-01,GB,clubcard prices,20
+2021-10-01,GB,clubcard prices,26
+2021-11-01,GB,clubcard prices,30
+2021-12-01,GB,clubcard prices,23
+2022-01-01,GB,clubcard prices,17
+2022-02-01,GB,clubcard prices,20
+2022-03-01,GB,clubcard prices,21
+2022-04-01,GB,clubcard prices,20
+2022-05-01,GB,clubcard prices,18
+2022-06-01,GB,clubcard prices,15
+2022-07-01,GB,clubcard prices,17
+2022-08-01,GB,clubcard prices,18
+2022-09-01,GB,clubcard prices,13
+2022-10-01,GB,clubcard prices,15
+2022-11-01,GB,clubcard prices,14
+2022-12-01,GB,clubcard prices,15
+2023-01-01,GB,clubcard prices,13
+2023-02-01,GB,clubcard prices,14
+2023-03-01,GB,clubcard prices,15
+2023-04-01,GB,clubcard prices,19
+2023-05-01,GB,clubcard prices,15
+2023-06-01,GB,clubcard prices,19
+2023-07-01,GB,clubcard prices,14
+2023-08-01,GB,clubcard prices,10
+2023-09-01,GB,clubcard prices,10
+2023-10-01,GB,clubcard prices,9
+2023-11-01,GB,clubcard prices,11
+2023-12-01,GB,clubcard prices,11
+2024-01-01,GB,clubcard prices,7
+2024-02-01,GB,clubcard prices,8
+2024-03-01,GB,clubcard prices,9
+2024-04-01,GB,clubcard prices,11
+2024-05-01,GB,clubcard prices,9
+2024-06-01,GB,clubcard prices,8
+2024-07-01,GB,clubcard prices,8
+2024-08-01,GB,clubcard prices,10
+2024-09-01,GB,clubcard prices,8
+2024-10-01,GB,clubcard prices,8
+2024-11-01,GB,clubcard prices,10
+2024-12-01,GB,clubcard prices,11
+2025-01-01,GB,clubcard prices,8
+2025-02-01,GB,clubcard prices,44
+2025-03-01,GB,clubcard prices,8
+2025-04-01,GB,clubcard prices,8
+2025-05-01,GB,clubcard prices,5
+2025-06-01,GB,clubcard prices,7
+2025-07-01,GB,clubcard prices,7
+2025-08-01,GB,clubcard prices,8
+2025-09-01,GB,clubcard prices,8
+2025-10-01,GB,clubcard prices,7
+2025-11-01,GB,clubcard prices,10
+2025-12-01,GB,clubcard prices,9
+2026-01-01,GB,clubcard prices,7
+2026-02-01,GB,clubcard prices,8
+2026-03-01,GB,clubcard prices,10
+2026-04-01,GB,clubcard prices,9
+2026-05-01,GB,clubcard prices,11
+2026-06-01,GB,clubcard prices,7
+2026-07-01,GB,clubcard prices,10
+2026-08-01,GB,clubcard prices,16
+2026-09-01,GB,clubcard prices,11
+2026-10-01,GB,clubcard prices,7
+2019-01-01,GB,cost of living,3
+2019-02-01,GB,cost of living,3
+2019-03-01,GB,cost of living,2
+2019-04-01,GB,cost of living,3
+2019-05-01,GB,cost of living,2
+2019-06-01,GB,cost of living,2
+2019-07-01,GB,cost of living,2
+2019-08-01,GB,cost of living,2
+2019-09-01,GB,cost of living,2
+2019-10-01,GB,cost of living,2
+2019-11-01,GB,cost of living,2
+2019-12-01,GB,cost of living,3
+2020-01-01,GB,cost of living,4
+2020-02-01,GB,cost of living,4
+2020-03-01,GB,cost of living,3
+2020-04-01,GB,cost of living,2
+2020-05-01,GB,cost of living,2
+2020-06-01,GB,cost of living,2
+2020-07-01,GB,cost of living,2
+2020-08-01,GB,cost of living,2
+2020-09-01,GB,cost of living,2
+2020-10-01,GB,cost of living,2
+2020-11-01,GB,cost of living,2
+2020-12-01,GB,cost of living,1
+2021-01-01,GB,cost of living,2
+2021-02-01,GB,cost of living,2
+2021-03-01,GB,cost of living,2
+2021-04-01,GB,cost of living,2
+2021-05-01,GB,cost of living,1
+2021-06-01,GB,cost of living,1
+2021-07-01,GB,cost of living,1
+2021-08-01,GB,cost of living,2
+2021-09-01,GB,cost of living,2
+2021-10-01,GB,cost of living,2
+2021-11-01,GB,cost of living,2
+2021-12-01,GB,cost of living,2
+2022-01-01,GB,cost of living,3
+2022-02-01,GB,cost of living,4
+2022-03-01,GB,cost of living,6
+2022-04-01,GB,cost of living,7
+2022-05-01,GB,cost of living,12
+2022-06-01,GB,cost of living,23
+2022-07-01,GB,cost of living,65
+2022-08-01,GB,cost of living,44
+2022-09-01,GB,cost of living,100
+2022-10-01,GB,cost of living,69
+2022-11-01,GB,cost of living,65
+2022-12-01,GB,cost of living,23
+2023-01-01,GB,cost of living,24
+2023-02-01,GB,cost of living,31
+2023-03-01,GB,cost of living,64
+2023-04-01,GB,cost of living,69
+2023-05-01,GB,cost of living,25
+2023-06-01,GB,cost of living,30
+2023-07-01,GB,cost of living,22
+2023-08-01,GB,cost of living,33
+2023-09-01,GB,cost of living,52
+2023-10-01,GB,cost of living,55
+2023-11-01,GB,cost of living,30
+2023-12-01,GB,cost of living,14
+2024-01-01,GB,cost of living,36
+2024-02-01,GB,cost of living,39
+2024-03-01,GB,cost of living,12
+2024-04-01,GB,cost of living,12
+2024-05-01,GB,cost of living,10
+2024-06-01,GB,cost of living,12
+2024-07-01,GB,cost of living,8
+2024-08-01,GB,cost of living,6
+2024-09-01,GB,cost of living,7
+2024-10-01,GB,cost of living,8
+2024-11-01,GB,cost of living,8
+2024-12-01,GB,cost of living,6
+2025-01-01,GB,cost of living,9
+2025-02-01,GB,cost of living,8
+2025-03-01,GB,cost of living,8
+2025-04-01,GB,cost of living,16
+2025-05-01,GB,cost of living,17
+2025-06-01,GB,cost of living,11
+2025-07-01,GB,cost of living,9
+2025-08-01,GB,cost of living,6
+2025-09-01,GB,cost of living,8
+2025-10-01,GB,cost of living,8
+2025-11-01,GB,cost of living,9
+2025-12-01,GB,cost of living,9
+2026-01-01,GB,cost of living,9
+2026-02-01,GB,cost of living,8
+2026-03-01,GB,cost of living,9
+2026-04-01,GB,cost of living,7
+2026-05-01,GB,cost of living,6
+2026-06-01,GB,cost of living,6
+2026-07-01,GB,cost of living,8
+2026-08-01,GB,cost of living,14
+2026-09-01,GB,cost of living,11
+2026-10-01,GB,cost of living,5
+2019-01-01,GB,buy now pay later,55
+2019-02-01,GB,buy now pay later,53
+2019-03-01,GB,buy now pay later,56
+2019-04-01,GB,buy now pay later,61
+2019-05-01,GB,buy now pay later,62
+2019-06-01,GB,buy now pay later,63
+2019-07-01,GB,buy now pay later,69
+2019-08-01,GB,buy now pay later,66
+2019-09-01,GB,buy now pay later,69
+2019-10-01,GB,buy now pay later,76
+2019-11-01,GB,buy now pay later,94
+2019-12-01,GB,buy now pay later,85
+2020-01-01,GB,buy now pay later,65
+2020-02-01,GB,buy now pay later,63
+2020-03-01,GB,buy now pay later,59
+2020-04-01,GB,buy now pay later,71
+2020-05-01,GB,buy now pay later,68
+2020-06-01,GB,buy now pay later,65
+2020-07-01,GB,buy now pay later,60
+2020-08-01,GB,buy now pay later,64
+2020-09-01,GB,buy now pay later,70
+2020-10-01,GB,buy now pay later,75
+2020-11-01,GB,buy now pay later,95
+2020-12-01,GB,buy now pay later,85
+2021-01-01,GB,buy now pay later,70
+2021-02-01,GB,buy now pay later,77
+2021-03-01,GB,buy now pay later,75
+2021-04-01,GB,buy now pay later,67
+2021-05-01,GB,buy now pay later,65
+2021-06-01,GB,buy now pay later,66
+2021-07-01,GB,buy now pay later,64
+2021-08-01,GB,buy now pay later,73
+2021-09-01,GB,buy now pay later,75
+2021-10-01,GB,buy now pay later,81
+2021-11-01,GB,buy now pay later,96
+2021-12-01,GB,buy now pay later,100
+2022-01-01,GB,buy now pay later,74
+2022-02-01,GB,buy now pay later,78
+2022-03-01,GB,buy now pay later,77
+2022-04-01,GB,buy now pay later,69
+2022-05-01,GB,buy now pay later,64
+2022-06-01,GB,buy now pay later,72
+2022-07-01,GB,buy now pay later,63
+2022-08-01,GB,buy now pay later,72
+2022-09-01,GB,buy now pay later,68
+2022-10-01,GB,buy now pay later,72
+2022-11-01,GB,buy now pay later,79
+2022-12-01,GB,buy now pay later,65
+2023-01-01,GB,buy now pay later,56
+2023-02-01,GB,buy now pay later,54
+2023-03-01,GB,buy now pay later,54
+2023-04-01,GB,buy now pay later,50
+2023-05-01,GB,buy now pay later,52
+2023-06-01,GB,buy now pay later,50
+2023-07-01,GB,buy now pay later,52
+2023-08-01,GB,buy now pay later,52
+2023-09-01,GB,buy now pay later,54
+2023-10-01,GB,buy now pay later,59
+2023-11-01,GB,buy now pay later,72
+2023-12-01,GB,buy now pay later,65
+2024-01-01,GB,buy now pay later,52
+2024-02-01,GB,buy now pay later,45
+2024-03-01,GB,buy now pay later,49
+2024-04-01,GB,buy now pay later,45
+2024-05-01,GB,buy now pay later,47
+2024-06-01,GB,buy now pay later,48
+2024-07-01,GB,buy now pay later,48
+2024-08-01,GB,buy now pay later,49
+2024-09-01,GB,buy now pay later,52
+2024-10-01,GB,buy now pay later,55
+2024-11-01,GB,buy now pay later,64
+2024-12-01,GB,buy now pay later,55
+2025-01-01,GB,buy now pay later,47
+2025-02-01,GB,buy now pay later,41
+2025-03-01,GB,buy now pay later,44
+2025-04-01,GB,buy now pay later,42
+2025-05-01,GB,buy now pay later,48
+2025-06-01,GB,buy now pay later,44
+2025-07-01,GB,buy now pay later,53
+2025-08-01,GB,buy now pay later,53
+2025-09-01,GB,buy now pay later,51
+2025-10-01,GB,buy now pay later,50
+2025-11-01,GB,buy now pay later,67
+2025-12-01,GB,buy now pay later,65
+2026-01-01,GB,buy now pay later,53
+2026-02-01,GB,buy now pay later,63
+2026-03-01,GB,buy now pay later,68
+2026-04-01,GB,buy now pay later,66
+2026-05-01,GB,buy now pay later,67
+2026-06-01,GB,buy now pay later,68
+2026-07-01,GB,buy now pay later,69
+2026-08-01,GB,buy now pay later,78
+2026-09-01,GB,buy now pay later,72
+2026-10-01,GB,buy now pay later,51
+2019-01-01,GB,klarna,18
+2019-02-01,GB,klarna,19
+2019-03-01,GB,klarna,19
+2019-04-01,GB,klarna,21
+2019-05-01,GB,klarna,26
+2019-06-01,GB,klarna,33
+2019-07-01,GB,klarna,35
+2019-08-01,GB,klarna,40
+2019-09-01,GB,klarna,44
+2019-10-01,GB,klarna,50
+2019-11-01,GB,klarna,67
+2019-12-01,GB,klarna,67
+2020-01-01,GB,klarna,59
+2020-02-01,GB,klarna,64
+2020-03-01,GB,klarna,54
+2020-04-01,GB,klarna,64
+2020-05-01,GB,klarna,67
+2020-06-01,GB,klarna,69
+2020-07-01,GB,klarna,75
+2020-08-01,GB,klarna,76
+2020-09-01,GB,klarna,78
+2020-10-01,GB,klarna,85
+2020-11-01,GB,klarna,98
+2020-12-01,GB,klarna,92
+2021-01-01,GB,klarna,79
+2021-02-01,GB,klarna,81
+2021-03-01,GB,klarna,77
+2021-04-01,GB,klarna,72
+2021-05-01,GB,klarna,72
+2021-06-01,GB,klarna,71
+2021-07-01,GB,klarna,67
+2021-08-01,GB,klarna,72
+2021-09-01,GB,klarna,72
+2021-10-01,GB,klarna,77
+2021-11-01,GB,klarna,87
+2021-12-01,GB,klarna,90
+2022-01-01,GB,klarna,73
+2022-02-01,GB,klarna,74
+2022-03-01,GB,klarna,77
+2022-04-01,GB,klarna,74
+2022-05-01,GB,klarna,75
+2022-06-01,GB,klarna,77
+2022-07-01,GB,klarna,73
+2022-08-01,GB,klarna,71
+2022-09-01,GB,klarna,74
+2022-10-01,GB,klarna,76
+2022-11-01,GB,klarna,84
+2022-12-01,GB,klarna,77
+2023-01-01,GB,klarna,67
+2023-02-01,GB,klarna,70
+2023-03-01,GB,klarna,68
+2023-04-01,GB,klarna,72
+2023-05-01,GB,klarna,71
+2023-06-01,GB,klarna,70
+2023-07-01,GB,klarna,69
+2023-08-01,GB,klarna,71
+2023-09-01,GB,klarna,71
+2023-10-01,GB,klarna,71
+2023-11-01,GB,klarna,83
+2023-12-01,GB,klarna,86
+2024-01-01,GB,klarna,69
+2024-02-01,GB,klarna,69
+2024-03-01,GB,klarna,69
+2024-04-01,GB,klarna,69
+2024-05-01,GB,klarna,68
+2024-06-01,GB,klarna,68
+2024-07-01,GB,klarna,70
+2024-08-01,GB,klarna,69
+2024-09-01,GB,klarna,74
+2024-10-01,GB,klarna,69
+2024-11-01,GB,klarna,83
+2024-12-01,GB,klarna,77
+2025-01-01,GB,klarna,71
+2025-02-01,GB,klarna,69
+2025-03-01,GB,klarna,69
+2025-04-01,GB,klarna,72
+2025-05-01,GB,klarna,96
+2025-06-01,GB,klarna,79
+2025-07-01,GB,klarna,81
+2025-08-01,GB,klarna,81
+2025-09-01,GB,klarna,88
+2025-10-01,GB,klarna,83
+2025-11-01,GB,klarna,100
+2025-12-01,GB,klarna,88
+2026-01-01,GB,klarna,78
+2026-02-01,GB,klarna,71
+2026-03-01,GB,klarna,78
+2026-04-01,GB,klarna,73
+2026-05-01,GB,klarna,78
+2026-06-01,GB,klarna,75
+2026-07-01,GB,klarna,76
+2026-08-01,GB,klarna,89
+2026-09-01,GB,klarna,88
+2026-10-01,GB,klarna,77
+2019-01-01,GB,luxury,54
+2019-02-01,GB,luxury,45
+2019-03-01,GB,luxury,44
+2019-04-01,GB,luxury,47
+2019-05-01,GB,luxury,45
+2019-06-01,GB,luxury,47
+2019-07-01,GB,luxury,46
+2019-08-01,GB,luxury,48
+2019-09-01,GB,luxury,55
+2019-10-01,GB,luxury,49
+2019-11-01,GB,luxury,47
+2019-12-01,GB,luxury,51
+2020-01-01,GB,luxury,55
+2020-02-01,GB,luxury,49
+2020-03-01,GB,luxury,33
+2020-04-01,GB,luxury,34
+2020-05-01,GB,luxury,43
+2020-06-01,GB,luxury,51
+2020-07-01,GB,luxury,65
+2020-08-01,GB,luxury,65
+2020-09-01,GB,luxury,59
+2020-10-01,GB,luxury,56
+2020-11-01,GB,luxury,57
+2020-12-01,GB,luxury,57
+2021-01-01,GB,luxury,49
+2021-02-01,GB,luxury,53
+2021-03-01,GB,luxury,52
+2021-04-01,GB,luxury,44
+2021-05-01,GB,luxury,47
+2021-06-01,GB,luxury,47
+2021-07-01,GB,luxury,47
+2021-08-01,GB,luxury,50
+2021-09-01,GB,luxury,49
+2021-10-01,GB,luxury,48
+2021-11-01,GB,luxury,49
+2021-12-01,GB,luxury,50
+2022-01-01,GB,luxury,60
+2022-02-01,GB,luxury,54
+2022-03-01,GB,luxury,47
+2022-04-01,GB,luxury,52
+2022-05-01,GB,luxury,49
+2022-06-01,GB,luxury,51
+2022-07-01,GB,luxury,50
+2022-08-01,GB,luxury,53
+2022-09-01,GB,luxury,46
+2022-10-01,GB,luxury,47
+2022-11-01,GB,luxury,49
+2022-12-01,GB,luxury,50
+2023-01-01,GB,luxury,55
+2023-02-01,GB,luxury,48
+2023-03-01,GB,luxury,45
+2023-04-01,GB,luxury,46
+2023-05-01,GB,luxury,47
+2023-06-01,GB,luxury,48
+2023-07-01,GB,luxury,51
+2023-08-01,GB,luxury,49
+2023-09-01,GB,luxury,46
+2023-10-01,GB,luxury,49
+2023-11-01,GB,luxury,51
+2023-12-01,GB,luxury,52
+2024-01-01,GB,luxury,54
+2024-02-01,GB,luxury,49
+2024-03-01,GB,luxury,51
+2024-04-01,GB,luxury,65
+2024-05-01,GB,luxury,64
+2024-06-01,GB,luxury,75
+2024-07-01,GB,luxury,73
+2024-08-01,GB,luxury,69
+2024-09-01,GB,luxury,60
+2024-10-01,GB,luxury,54
+2024-11-01,GB,luxury,62
+2024-12-01,GB,luxury,71
+2025-01-01,GB,luxury,76
+2025-02-01,GB,luxury,60
+2025-03-01,GB,luxury,54
+2025-04-01,GB,luxury,53
+2025-05-01,GB,luxury,55
+2025-06-01,GB,luxury,55
+2025-07-01,GB,luxury,57
+2025-08-01,GB,luxury,56
+2025-09-01,GB,luxury,54
+2025-10-01,GB,luxury,54
+2025-11-01,GB,luxury,66
+2025-12-01,GB,luxury,72
+2026-01-01,GB,luxury,70
+2026-02-01,GB,luxury,91
+2026-03-01,GB,luxury,80
+2026-04-01,GB,luxury,74
+2026-05-01,GB,luxury,79
+2026-06-01,GB,luxury,75
+2026-07-01,GB,luxury,86
+2026-08-01,GB,luxury,100
+2026-09-01,GB,luxury,91
+2026-10-01,GB,luxury,65
+2019-01-01,GB,budget meals,55
+2019-02-01,GB,budget meals,42
+2019-03-01,GB,budget meals,38
+2019-04-01,GB,budget meals,39
+2019-05-01,GB,budget meals,38
+2019-06-01,GB,budget meals,40
+2019-07-01,GB,budget meals,39
+2019-08-01,GB,budget meals,42
+2019-09-01,GB,budget meals,44
+2019-10-01,GB,budget meals,37
+2019-11-01,GB,budget meals,36
+2019-12-01,GB,budget meals,26
+2020-01-01,GB,budget meals,58
+2020-02-01,GB,budget meals,45
+2020-03-01,GB,budget meals,37
+2020-04-01,GB,budget meals,32
+2020-05-01,GB,budget meals,31
+2020-06-01,GB,budget meals,27
+2020-07-01,GB,budget meals,33
+2020-08-01,GB,budget meals,24
+2020-09-01,GB,budget meals,37
+2020-10-01,GB,budget meals,40
+2020-11-01,GB,budget meals,35
+2020-12-01,GB,budget meals,24
+2021-01-01,GB,budget meals,53
+2021-02-01,GB,budget meals,39
+2021-03-01,GB,budget meals,35
+2021-04-01,GB,budget meals,33
+2021-05-01,GB,budget meals,33
+2021-06-01,GB,budget meals,30
+2021-07-01,GB,budget meals,31
+2021-08-01,GB,budget meals,33
+2021-09-01,GB,budget meals,34
+2021-10-01,GB,budget meals,37
+2021-11-01,GB,budget meals,26
+2021-12-01,GB,budget meals,21
+2022-01-01,GB,budget meals,45
+2022-02-01,GB,budget meals,45
+2022-03-01,GB,budget meals,44
+2022-04-01,GB,budget meals,44
+2022-05-01,GB,budget meals,48
+2022-06-01,GB,budget meals,55
+2022-07-01,GB,budget meals,50
+2022-08-01,GB,budget meals,62
+2022-09-01,GB,budget meals,68
+2022-10-01,GB,budget meals,57
+2022-11-01,GB,budget meals,49
+2022-12-01,GB,budget meals,28
+2023-01-01,GB,budget meals,66
+2023-02-01,GB,budget meals,45
+2023-03-01,GB,budget meals,49
+2023-04-01,GB,budget meals,44
+2023-05-01,GB,budget meals,38
+2023-06-01,GB,budget meals,37
+2023-07-01,GB,budget meals,41
+2023-08-01,GB,budget meals,48
+2023-09-01,GB,budget meals,48
+2023-10-01,GB,budget meals,38
+2023-11-01,GB,budget meals,41
+2023-12-01,GB,budget meals,32
+2024-01-01,GB,budget meals,50
+2024-02-01,GB,budget meals,41
+2024-03-01,GB,budget meals,32
+2024-04-01,GB,budget meals,34
+2024-05-01,GB,budget meals,28
+2024-06-01,GB,budget meals,28
+2024-07-01,GB,budget meals,26
+2024-08-01,GB,budget meals,28
+2024-09-01,GB,budget meals,41
+2024-10-01,GB,budget meals,35
+2024-11-01,GB,budget meals,31
+2024-12-01,GB,budget meals,21
+2025-01-01,GB,budget meals,43
+2025-02-01,GB,budget meals,34
+2025-03-01,GB,budget meals,33
+2025-04-01,GB,budget meals,29
+2025-05-01,GB,budget meals,31
+2025-06-01,GB,budget meals,30
+2025-07-01,GB,budget meals,28
+2025-08-01,GB,budget meals,34
+2025-09-01,GB,budget meals,38
+2025-10-01,GB,budget meals,37
+2025-11-01,GB,budget meals,54
+2025-12-01,GB,budget meals,44
+2026-01-01,GB,budget meals,62
+2026-02-01,GB,budget meals,57
+2026-03-01,GB,budget meals,57
+2026-04-01,GB,budget meals,49
+2026-05-01,GB,budget meals,39
+2026-06-01,GB,budget meals,46
+2026-07-01,GB,budget meals,100
+2026-08-01,GB,budget meals,60
+2026-09-01,GB,budget meals,64
+2026-10-01,GB,budget meals,41
+2019-01-01,AE,win,13
+2019-02-01,AE,win,12
+2019-03-01,AE,win,12
+2019-04-01,AE,win,15
+2019-05-01,AE,win,19
+2019-06-01,AE,win,15
+2019-07-01,AE,win,16
+2019-08-01,AE,win,11
+2019-09-01,AE,win,12
+2019-10-01,AE,win,12
+2019-11-01,AE,win,12
+2019-12-01,AE,win,11
+2020-01-01,AE,win,12
+2020-02-01,AE,win,14
+2020-03-01,AE,win,12
+2020-04-01,AE,win,13
+2020-05-01,AE,win,14
+2020-06-01,AE,win,14
+2020-07-01,AE,win,13
+2020-08-01,AE,win,13
+2020-09-01,AE,win,14
+2020-10-01,AE,win,15
+2020-11-01,AE,win,22
+2020-12-01,AE,win,14
+2021-01-01,AE,win,13
+2021-02-01,AE,win,13
+2021-03-01,AE,win,14
+2021-04-01,AE,win,16
+2021-05-01,AE,win,16
+2021-06-01,AE,win,14
+2021-07-01,AE,win,15
+2021-08-01,AE,win,13
+2021-09-01,AE,win,12
+2021-10-01,AE,win,17
+2021-11-01,AE,win,15
+2021-12-01,AE,win,14
+2022-01-01,AE,win,14
+2022-02-01,AE,win,13
+2022-03-01,AE,win,14
+2022-04-01,AE,win,15
+2022-05-01,AE,win,15
+2022-06-01,AE,win,13
+2022-07-01,AE,win,13
+2022-08-01,AE,win,14
+2022-09-01,AE,win,16
+2022-10-01,AE,win,15
+2022-11-01,AE,win,21
+2022-12-01,AE,win,30
+2023-01-01,AE,win,16
+2023-02-01,AE,win,19
+2023-03-01,AE,win,17
+2023-04-01,AE,win,18
+2023-05-01,AE,win,21
+2023-06-01,AE,win,18
+2023-07-01,AE,win,18
+2023-08-01,AE,win,18
+2023-09-01,AE,win,22
+2023-10-01,AE,win,25
+2023-11-01,AE,win,24
+2023-12-01,AE,win,21
+2024-01-01,AE,win,17
+2024-02-01,AE,win,15
+2024-03-01,AE,win,14
+2024-04-01,AE,win,15
+2024-05-01,AE,win,17
+2024-06-01,AE,win,22
+2024-07-01,AE,win,16
+2024-08-01,AE,win,15
+2024-09-01,AE,win,14
+2024-10-01,AE,win,15
+2024-11-01,AE,win,17
+2024-12-01,AE,win,15
+2025-01-01,AE,win,15
+2025-02-01,AE,win,15
+2025-03-01,AE,win,15
+2025-04-01,AE,win,15
+2025-05-01,AE,win,16
+2025-06-01,AE,win,17
+2025-07-01,AE,win,19
+2025-08-01,AE,win,28
+2025-09-01,AE,win,59
+2025-10-01,AE,win,100
+2025-11-01,AE,win,31
+2025-12-01,AE,win,22
+2026-01-01,AE,win,50
+2026-02-01,AE,win,19
+2026-03-01,AE,win,19
+2026-04-01,AE,win,19
+2026-05-01,AE,win,25
+2026-06-01,AE,win,29
+2026-07-01,AE,win,36
+2026-08-01,AE,win,19
+2026-09-01,AE,win,19
+2026-10-01,AE,win,22
+2019-01-01,AE,raffle,88
+2019-02-01,AE,raffle,38
+2019-03-01,AE,raffle,21
+2019-04-01,AE,raffle,19
+2019-05-01,AE,raffle,18
+2019-06-01,AE,raffle,19
+2019-07-01,AE,raffle,18
+2019-08-01,AE,raffle,27
+2019-09-01,AE,raffle,27
+2019-10-01,AE,raffle,28
+2019-11-01,AE,raffle,33
+2019-12-01,AE,raffle,50
+2020-01-01,AE,raffle,100
+2020-02-01,AE,raffle,46
+2020-03-01,AE,raffle,14
+2020-04-01,AE,raffle,13
+2020-05-01,AE,raffle,13
+2020-06-01,AE,raffle,13
+2020-07-01,AE,raffle,14
+2020-08-01,AE,raffle,15
+2020-09-01,AE,raffle,12
+2020-10-01,AE,raffle,13
+2020-11-01,AE,raffle,13
+2020-12-01,AE,raffle,38
+2021-01-01,AE,raffle,44
+2021-02-01,AE,raffle,17
+2021-03-01,AE,raffle,10
+2021-04-01,AE,raffle,9
+2021-05-01,AE,raffle,9
+2021-06-01,AE,raffle,9
+2021-07-01,AE,raffle,16
+2021-08-01,AE,raffle,13
+2021-09-01,AE,raffle,17
+2021-10-01,AE,raffle,14
+2021-11-01,AE,raffle,21
+2021-12-01,AE,raffle,31
+2022-01-01,AE,raffle,31
+2022-02-01,AE,raffle,9
+2022-03-01,AE,raffle,8
+2022-04-01,AE,raffle,26
+2022-05-01,AE,raffle,21
+2022-06-01,AE,raffle,12
+2022-07-01,AE,raffle,15
+2022-08-01,AE,raffle,16
+2022-09-01,AE,raffle,12
+2022-10-01,AE,raffle,12
+2022-11-01,AE,raffle,15
+2022-12-01,AE,raffle,24
+2023-01-01,AE,raffle,22
+2023-02-01,AE,raffle,15
+2023-03-01,AE,raffle,13
+2023-04-01,AE,raffle,12
+2023-05-01,AE,raffle,10
+2023-06-01,AE,raffle,10
+2023-07-01,AE,raffle,14
+2023-08-01,AE,raffle,14
+2023-09-01,AE,raffle,12
+2023-10-01,AE,raffle,14
+2023-11-01,AE,raffle,19
+2023-12-01,AE,raffle,31
+2024-01-01,AE,raffle,20
+2024-02-01,AE,raffle,10
+2024-03-01,AE,raffle,8
+2024-04-01,AE,raffle,9
+2024-05-01,AE,raffle,9
+2024-06-01,AE,raffle,8
+2024-07-01,AE,raffle,8
+2024-08-01,AE,raffle,8
+2024-09-01,AE,raffle,10
+2024-10-01,AE,raffle,12
+2024-11-01,AE,raffle,16
+2024-12-01,AE,raffle,22
+2025-01-01,AE,raffle,19
+2025-02-01,AE,raffle,7
+2025-03-01,AE,raffle,6
+2025-04-01,AE,raffle,5
+2025-05-01,AE,raffle,9
+2025-06-01,AE,raffle,6
+2025-07-01,AE,raffle,5
+2025-08-01,AE,raffle,7
+2025-09-01,AE,raffle,6
+2025-10-01,AE,raffle,6
+2025-11-01,AE,raffle,9
+2025-12-01,AE,raffle,14
+2026-01-01,AE,raffle,11
+2026-02-01,AE,raffle,7
+2026-03-01,AE,raffle,5
+2026-04-01,AE,raffle,5
+2026-05-01,AE,raffle,6
+2026-06-01,AE,raffle,10
+2026-07-01,AE,raffle,7
+2026-08-01,AE,raffle,10
+2026-09-01,AE,raffle,5
+2026-10-01,AE,raffle,6
+2019-01-01,AE,giveaway,65
+2019-02-01,AE,giveaway,56
+2019-03-01,AE,giveaway,47
+2019-04-01,AE,giveaway,50
+2019-05-01,AE,giveaway,50
+2019-06-01,AE,giveaway,44
+2019-07-01,AE,giveaway,52
+2019-08-01,AE,giveaway,51
+2019-09-01,AE,giveaway,67
+2019-10-01,AE,giveaway,58
+2019-11-01,AE,giveaway,47
+2019-12-01,AE,giveaway,67
+2020-01-01,AE,giveaway,59
+2020-02-01,AE,giveaway,78
+2020-03-01,AE,giveaway,60
+2020-04-01,AE,giveaway,52
+2020-05-01,AE,giveaway,77
+2020-06-01,AE,giveaway,73
+2020-07-01,AE,giveaway,96
+2020-08-01,AE,giveaway,91
+2020-09-01,AE,giveaway,68
+2020-10-01,AE,giveaway,85
+2020-11-01,AE,giveaway,79
+2020-12-01,AE,giveaway,96
+2021-01-01,AE,giveaway,100
+2021-02-01,AE,giveaway,79
+2021-03-01,AE,giveaway,88
+2021-04-01,AE,giveaway,69
+2021-05-01,AE,giveaway,96
+2021-06-01,AE,giveaway,87
+2021-07-01,AE,giveaway,76
+2021-08-01,AE,giveaway,68
+2021-09-01,AE,giveaway,86
+2021-10-01,AE,giveaway,63
+2021-11-01,AE,giveaway,71
+2021-12-01,AE,giveaway,84
+2022-01-01,AE,giveaway,69
+2022-02-01,AE,giveaway,93
+2022-03-01,AE,giveaway,99
+2022-04-01,AE,giveaway,94
+2022-05-01,AE,giveaway,61
+2022-06-01,AE,giveaway,67
+2022-07-01,AE,giveaway,73
+2022-08-01,AE,giveaway,87
+2022-09-01,AE,giveaway,69
+2022-10-01,AE,giveaway,80
+2022-11-01,AE,giveaway,87
+2022-12-01,AE,giveaway,68
+2023-01-01,AE,giveaway,58
+2023-02-01,AE,giveaway,66
+2023-03-01,AE,giveaway,66
+2023-04-01,AE,giveaway,68
+2023-05-01,AE,giveaway,65
+2023-06-01,AE,giveaway,59
+2023-07-01,AE,giveaway,52
+2023-08-01,AE,giveaway,73
+2023-09-01,AE,giveaway,72
+2023-10-01,AE,giveaway,67
+2023-11-01,AE,giveaway,54
+2023-12-01,AE,giveaway,65
+2024-01-01,AE,giveaway,73
+2024-02-01,AE,giveaway,73
+2024-03-01,AE,giveaway,49
+2024-04-01,AE,giveaway,57
+2024-05-01,AE,giveaway,56
+2024-06-01,AE,giveaway,66
+2024-07-01,AE,giveaway,56
+2024-08-01,AE,giveaway,72
+2024-09-01,AE,giveaway,65
+2024-10-01,AE,giveaway,58
+2024-11-01,AE,giveaway,61
+2024-12-01,AE,giveaway,68
+2025-01-01,AE,giveaway,71
+2025-02-01,AE,giveaway,66
+2025-03-01,AE,giveaway,62
+2025-04-01,AE,giveaway,58
+2025-05-01,AE,giveaway,63
+2025-06-01,AE,giveaway,64
+2025-07-01,AE,giveaway,58
+2025-08-01,AE,giveaway,71
+2025-09-01,AE,giveaway,57
+2025-10-01,AE,giveaway,57
+2025-11-01,AE,giveaway,74
+2025-12-01,AE,giveaway,89
+2026-01-01,AE,giveaway,74
+2026-02-01,AE,giveaway,91
+2026-03-01,AE,giveaway,56
+2026-04-01,AE,giveaway,79
+2026-05-01,AE,giveaway,71
+2026-06-01,AE,giveaway,60
+2026-07-01,AE,giveaway,70
+2026-08-01,AE,giveaway,62
+2026-09-01,AE,giveaway,73
+2026-10-01,AE,giveaway,60
+2019-01-01,AE,سحب,53
+2019-02-01,AE,سحب,44
+2019-03-01,AE,سحب,47
+2019-04-01,AE,سحب,47
+2019-05-01,AE,سحب,55
+2019-06-01,AE,سحب,45
+2019-07-01,AE,سحب,50
+2019-08-01,AE,سحب,55
+2019-09-01,AE,سحب,50
+2019-10-01,AE,سحب,51
+2019-11-01,AE,سحب,50
+2019-12-01,AE,سحب,49
+2020-01-01,AE,سحب,52
+2020-02-01,AE,سحب,47
+2020-03-01,AE,سحب,37
+2020-04-01,AE,سحب,41
+2020-05-01,AE,سحب,57
+2020-06-01,AE,سحب,51
+2020-07-01,AE,سحب,57
+2020-08-01,AE,سحب,54
+2020-09-01,AE,سحب,49
+2020-10-01,AE,سحب,47
+2020-11-01,AE,سحب,51
+2020-12-01,AE,سحب,47
+2021-01-01,AE,سحب,51
+2021-02-01,AE,سحب,53
+2021-03-01,AE,سحب,51
+2021-04-01,AE,سحب,55
+2021-05-01,AE,سحب,70
+2021-06-01,AE,سحب,76
+2021-07-01,AE,سحب,59
+2021-08-01,AE,سحب,65
+2021-09-01,AE,سحب,55
+2021-10-01,AE,سحب,60
+2021-11-01,AE,سحب,51
+2021-12-01,AE,سحب,61
+2022-01-01,AE,سحب,61
+2022-02-01,AE,سحب,67
+2022-03-01,AE,سحب,54
+2022-04-01,AE,سحب,71
+2022-05-01,AE,سحب,56
+2022-06-01,AE,سحب,64
+2022-07-01,AE,سحب,60
+2022-08-01,AE,سحب,71
+2022-09-01,AE,سحب,66
+2022-10-01,AE,سحب,59
+2022-11-01,AE,سحب,54
+2022-12-01,AE,سحب,59
+2023-01-01,AE,سحب,64
+2023-02-01,AE,سحب,54
+2023-03-01,AE,سحب,61
+2023-04-01,AE,سحب,64
+2023-05-01,AE,سحب,57
+2023-06-01,AE,سحب,58
+2023-07-01,AE,سحب,70
+2023-08-01,AE,سحب,69
+2023-09-01,AE,سحب,62
+2023-10-01,AE,سحب,57
+2023-11-01,AE,سحب,61
+2023-12-01,AE,سحب,71
+2024-01-01,AE,سحب,70
+2024-02-01,AE,سحب,70
+2024-03-01,AE,سحب,69
+2024-04-01,AE,سحب,78
+2024-05-01,AE,سحب,64
+2024-06-01,AE,سحب,64
+2024-07-01,AE,سحب,65
+2024-08-01,AE,سحب,73
+2024-09-01,AE,سحب,71
+2024-10-01,AE,سحب,61
+2024-11-01,AE,سحب,88
+2024-12-01,AE,سحب,99
+2025-01-01,AE,سحب,67
+2025-02-01,AE,سحب,67
+2025-03-01,AE,سحب,77
+2025-04-01,AE,سحب,65
+2025-05-01,AE,سحب,62
+2025-06-01,AE,سحب,67
+2025-07-01,AE,سحب,67
+2025-08-01,AE,سحب,71
+2025-09-01,AE,سحب,59
+2025-10-01,AE,سحب,55
+2025-11-01,AE,سحب,61
+2025-12-01,AE,سحب,71
+2026-01-01,AE,سحب,69
+2026-02-01,AE,سحب,69
+2026-03-01,AE,سحب,82
+2026-04-01,AE,سحب,100
+2026-05-01,AE,سحب,66
+2026-06-01,AE,سحب,74
+2026-07-01,AE,سحب,61
+2026-08-01,AE,سحب,66
+2026-09-01,AE,سحب,60
+2026-10-01,AE,سحب,62
+2019-01-01,AE,اربح,50
+2019-02-01,AE,اربح,0
+2019-03-01,AE,اربح,68
+2019-04-01,AE,اربح,62
+2019-05-01,AE,اربح,70
+2019-06-01,AE,اربح,0
+2019-07-01,AE,اربح,0
+2019-08-01,AE,اربح,0
+2019-09-01,AE,اربح,48
+2019-10-01,AE,اربح,58
+2019-11-01,AE,اربح,0
+2019-12-01,AE,اربح,46
+2020-01-01,AE,اربح,0
+2020-02-01,AE,اربح,0
+2020-03-01,AE,اربح,0
+2020-04-01,AE,اربح,99
+2020-05-01,AE,اربح,0
+2020-06-01,AE,اربح,56
+2020-07-01,AE,اربح,53
+2020-08-01,AE,اربح,80
+2020-09-01,AE,اربح,43
+2020-10-01,AE,اربح,0
+2020-11-01,AE,اربح,58
+2020-12-01,AE,اربح,61
+2021-01-01,AE,اربح,83
+2021-02-01,AE,اربح,62
+2021-03-01,AE,اربح,42
+2021-04-01,AE,اربح,62
+2021-05-01,AE,اربح,38
+2021-06-01,AE,اربح,49
+2021-07-01,AE,اربح,71
+2021-08-01,AE,اربح,64
+2021-09-01,AE,اربح,66
+2021-10-01,AE,اربح,52
+2021-11-01,AE,اربح,57
+2021-12-01,AE,اربح,59
+2022-01-01,AE,اربح,0
+2022-02-01,AE,اربح,50
+2022-03-01,AE,اربح,40
+2022-04-01,AE,اربح,50
+2022-05-01,AE,اربح,56
+2022-06-01,AE,اربح,38
+2022-07-01,AE,اربح,37
+2022-08-01,AE,اربح,0
+2022-09-01,AE,اربح,48
+2022-10-01,AE,اربح,42
+2022-11-01,AE,اربح,66
+2022-12-01,AE,اربح,37
+2023-01-01,AE,اربح,46
+2023-02-01,AE,اربح,0
+2023-03-01,AE,اربح,49
+2023-04-01,AE,اربح,56
+2023-05-01,AE,اربح,50
+2023-06-01,AE,اربح,60
+2023-07-01,AE,اربح,61
+2023-08-01,AE,اربح,62
+2023-09-01,AE,اربح,55
+2023-10-01,AE,اربح,47
+2023-11-01,AE,اربح,46
+2023-12-01,AE,اربح,35
+2024-01-01,AE,اربح,59
+2024-02-01,AE,اربح,44
+2024-03-01,AE,اربح,55
+2024-04-01,AE,اربح,100
+2024-05-01,AE,اربح,53
+2024-06-01,AE,اربح,49
+2024-07-01,AE,اربح,54
+2024-08-01,AE,اربح,64
+2024-09-01,AE,اربح,48
+2024-10-01,AE,اربح,0
+2024-11-01,AE,اربح,0
+2024-12-01,AE,اربح,0
+2025-01-01,AE,اربح,73
+2025-02-01,AE,اربح,0
+2025-03-01,AE,اربح,44
+2025-04-01,AE,اربح,55
+2025-05-01,AE,اربح,0
+2025-06-01,AE,اربح,51
+2025-07-01,AE,اربح,0
+2025-08-01,AE,اربح,41
+2025-09-01,AE,اربح,53
+2025-10-01,AE,اربح,48
+2025-11-01,AE,اربح,38
+2025-12-01,AE,اربح,42
+2026-01-01,AE,اربح,34
+2026-02-01,AE,اربح,0
+2026-03-01,AE,اربح,0
+2026-04-01,AE,اربح,36
+2026-05-01,AE,اربح,0
+2026-06-01,AE,اربح,78
+2026-07-01,AE,اربح,74
+2026-08-01,AE,اربح,54
+2026-09-01,AE,اربح,0
+2026-10-01,AE,اربح,8
+2019-01-01,AE,مسابقة,25
+2019-02-01,AE,مسابقة,29
+2019-03-01,AE,مسابقة,27
+2019-04-01,AE,مسابقة,21
+2019-05-01,AE,مسابقة,29
+2019-06-01,AE,مسابقة,17
+2019-07-01,AE,مسابقة,16
+2019-08-01,AE,مسابقة,12
+2019-09-01,AE,مسابقة,20
+2019-10-01,AE,مسابقة,28
+2019-11-01,AE,مسابقة,22
+2019-12-01,AE,مسابقة,24
+2020-01-01,AE,مسابقة,21
+2020-02-01,AE,مسابقة,29
+2020-03-01,AE,مسابقة,15
+2020-04-01,AE,مسابقة,21
+2020-05-01,AE,مسابقة,32
+2020-06-01,AE,مسابقة,24
+2020-07-01,AE,مسابقة,13
+2020-08-01,AE,مسابقة,11
+2020-09-01,AE,مسابقة,13
+2020-10-01,AE,مسابقة,18
+2020-11-01,AE,مسابقة,20
+2020-12-01,AE,مسابقة,19
+2021-01-01,AE,مسابقة,13
+2021-02-01,AE,مسابقة,18
+2021-03-01,AE,مسابقة,19
+2021-04-01,AE,مسابقة,21
+2021-05-01,AE,مسابقة,16
+2021-06-01,AE,مسابقة,14
+2021-07-01,AE,مسابقة,11
+2021-08-01,AE,مسابقة,10
+2021-09-01,AE,مسابقة,12
+2021-10-01,AE,مسابقة,16
+2021-11-01,AE,مسابقة,18
+2021-12-01,AE,مسابقة,18
+2022-01-01,AE,مسابقة,16
+2022-02-01,AE,مسابقة,17
+2022-03-01,AE,مسابقة,16
+2022-04-01,AE,مسابقة,25
+2022-05-01,AE,مسابقة,14
+2022-06-01,AE,مسابقة,14
+2022-07-01,AE,مسابقة,10
+2022-08-01,AE,مسابقة,8
+2022-09-01,AE,مسابقة,15
+2022-10-01,AE,مسابقة,17
+2022-11-01,AE,مسابقة,16
+2022-12-01,AE,مسابقة,13
+2023-01-01,AE,مسابقة,20
+2023-02-01,AE,مسابقة,18
+2023-03-01,AE,مسابقة,18
+2023-04-01,AE,مسابقة,16
+2023-05-01,AE,مسابقة,14
+2023-06-01,AE,مسابقة,12
+2023-07-01,AE,مسابقة,10
+2023-08-01,AE,مسابقة,10
+2023-09-01,AE,مسابقة,13
+2023-10-01,AE,مسابقة,15
+2023-11-01,AE,مسابقة,16
+2023-12-01,AE,مسابقة,14
+2024-01-01,AE,مسابقة,16
+2024-02-01,AE,مسابقة,18
+2024-03-01,AE,مسابقة,19
+2024-04-01,AE,مسابقة,15
+2024-05-01,AE,مسابقة,14
+2024-06-01,AE,مسابقة,9
+2024-07-01,AE,مسابقة,9
+2024-08-01,AE,مسابقة,9
+2024-09-01,AE,مسابقة,13
+2024-10-01,AE,مسابقة,16
+2024-11-01,AE,مسابقة,15
+2024-12-01,AE,مسابقة,13
+2025-01-01,AE,مسابقة,14
+2025-02-01,AE,مسابقة,15
+2025-03-01,AE,مسابقة,15
+2025-04-01,AE,مسابقة,12
+2025-05-01,AE,مسابقة,13
+2025-06-01,AE,مسابقة,8
+2025-07-01,AE,مسابقة,10
+2025-08-01,AE,مسابقة,8
+2025-09-01,AE,مسابقة,12
+2025-10-01,AE,مسابقة,13
+2025-11-01,AE,مسابقة,14
+2025-12-01,AE,مسابقة,13
+2026-01-01,AE,مسابقة,14
+2026-02-01,AE,مسابقة,100
+2026-03-01,AE,مسابقة,10
+2026-04-01,AE,مسابقة,10
+2026-05-01,AE,مسابقة,10
+2026-06-01,AE,مسابقة,10
+2026-07-01,AE,مسابقة,11
+2026-08-01,AE,مسابقة,8
+2026-09-01,AE,مسابقة,11
+2026-10-01,AE,مسابقة,12
+2019-01-01,AE,cashback,8
+2019-02-01,AE,cashback,8
+2019-03-01,AE,cashback,6
+2019-04-01,AE,cashback,9
+2019-05-01,AE,cashback,8
+2019-06-01,AE,cashback,9
+2019-07-01,AE,cashback,9
+2019-08-01,AE,cashback,10
+2019-09-01,AE,cashback,10
+2019-10-01,AE,cashback,8
+2019-11-01,AE,cashback,9
+2019-12-01,AE,cashback,10
+2020-01-01,AE,cashback,11
+2020-02-01,AE,cashback,11
+2020-03-01,AE,cashback,8
+2020-04-01,AE,cashback,5
+2020-05-01,AE,cashback,7
+2020-06-01,AE,cashback,10
+2020-07-01,AE,cashback,11
+2020-08-01,AE,cashback,9
+2020-09-01,AE,cashback,12
+2020-10-01,AE,cashback,11
+2020-11-01,AE,cashback,12
+2020-12-01,AE,cashback,13
+2021-01-01,AE,cashback,12
+2021-02-01,AE,cashback,11
+2021-03-01,AE,cashback,12
+2021-04-01,AE,cashback,12
+2021-05-01,AE,cashback,10
+2021-06-01,AE,cashback,13
+2021-07-01,AE,cashback,11
+2021-08-01,AE,cashback,14
+2021-09-01,AE,cashback,13
+2021-10-01,AE,cashback,12
+2021-11-01,AE,cashback,12
+2021-12-01,AE,cashback,11
+2022-01-01,AE,cashback,14
+2022-02-01,AE,cashback,17
+2022-03-01,AE,cashback,18
+2022-04-01,AE,cashback,19
+2022-05-01,AE,cashback,18
+2022-06-01,AE,cashback,18
+2022-07-01,AE,cashback,19
+2022-08-01,AE,cashback,19
+2022-09-01,AE,cashback,18
+2022-10-01,AE,cashback,17
+2022-11-01,AE,cashback,17
+2022-12-01,AE,cashback,16
+2023-01-01,AE,cashback,15
+2023-02-01,AE,cashback,16
+2023-03-01,AE,cashback,20
+2023-04-01,AE,cashback,20
+2023-05-01,AE,cashback,21
+2023-06-01,AE,cashback,21
+2023-07-01,AE,cashback,22
+2023-08-01,AE,cashback,23
+2023-09-01,AE,cashback,21
+2023-10-01,AE,cashback,19
+2023-11-01,AE,cashback,20
+2023-12-01,AE,cashback,20
+2024-01-01,AE,cashback,21
+2024-02-01,AE,cashback,24
+2024-03-01,AE,cashback,25
+2024-04-01,AE,cashback,20
+2024-05-01,AE,cashback,28
+2024-06-01,AE,cashback,26
+2024-07-01,AE,cashback,28
+2024-08-01,AE,cashback,35
+2024-09-01,AE,cashback,31
+2024-10-01,AE,cashback,29
+2024-11-01,AE,cashback,31
+2024-12-01,AE,cashback,25
+2025-01-01,AE,cashback,28
+2025-02-01,AE,cashback,28
+2025-03-01,AE,cashback,33
+2025-04-01,AE,cashback,32
+2025-05-01,AE,cashback,36
+2025-06-01,AE,cashback,33
+2025-07-01,AE,cashback,53
+2025-08-01,AE,cashback,45
+2025-09-01,AE,cashback,37
+2025-10-01,AE,cashback,36
+2025-11-01,AE,cashback,40
+2025-12-01,AE,cashback,43
+2026-01-01,AE,cashback,40
+2026-02-01,AE,cashback,49
+2026-03-01,AE,cashback,55
+2026-04-01,AE,cashback,68
+2026-05-01,AE,cashback,77
+2026-06-01,AE,cashback,71
+2026-07-01,AE,cashback,80
+2026-08-01,AE,cashback,100
+2026-09-01,AE,cashback,98
+2026-10-01,AE,cashback,56
+2019-01-01,AE,discount code,26
+2019-02-01,AE,discount code,27
+2019-03-01,AE,discount code,29
+2019-04-01,AE,discount code,28
+2019-05-01,AE,discount code,38
+2019-06-01,AE,discount code,35
+2019-07-01,AE,discount code,37
+2019-08-01,AE,discount code,38
+2019-09-01,AE,discount code,40
+2019-10-01,AE,discount code,40
+2019-11-01,AE,discount code,52
+2019-12-01,AE,discount code,49
+2020-01-01,AE,discount code,44
+2020-02-01,AE,discount code,42
+2020-03-01,AE,discount code,43
+2020-04-01,AE,discount code,53
+2020-05-01,AE,discount code,61
+2020-06-01,AE,discount code,53
+2020-07-01,AE,discount code,55
+2020-08-01,AE,discount code,53
+2020-09-01,AE,discount code,50
+2020-10-01,AE,discount code,47
+2020-11-01,AE,discount code,64
+2020-12-01,AE,discount code,71
+2021-01-01,AE,discount code,57
+2021-02-01,AE,discount code,56
+2021-03-01,AE,discount code,58
+2021-04-01,AE,discount code,60
+2021-05-01,AE,discount code,66
+2021-06-01,AE,discount code,71
+2021-07-01,AE,discount code,77
+2021-08-01,AE,discount code,68
+2021-09-01,AE,discount code,67
+2021-10-01,AE,discount code,66
+2021-11-01,AE,discount code,81
+2021-12-01,AE,discount code,75
+2022-01-01,AE,discount code,77
+2022-02-01,AE,discount code,70
+2022-03-01,AE,discount code,73
+2022-04-01,AE,discount code,83
+2022-05-01,AE,discount code,74
+2022-06-01,AE,discount code,87
+2022-07-01,AE,discount code,79
+2022-08-01,AE,discount code,78
+2022-09-01,AE,discount code,67
+2022-10-01,AE,discount code,79
+2022-11-01,AE,discount code,74
+2022-12-01,AE,discount code,71
+2023-01-01,AE,discount code,67
+2023-02-01,AE,discount code,61
+2023-03-01,AE,discount code,69
+2023-04-01,AE,discount code,82
+2023-05-01,AE,discount code,66
+2023-06-01,AE,discount code,71
+2023-07-01,AE,discount code,69
+2023-08-01,AE,discount code,64
+2023-09-01,AE,discount code,59
+2023-10-01,AE,discount code,58
+2023-11-01,AE,discount code,68
+2023-12-01,AE,discount code,73
+2024-01-01,AE,discount code,63
+2024-02-01,AE,discount code,64
+2024-03-01,AE,discount code,69
+2024-04-01,AE,discount code,66
+2024-05-01,AE,discount code,63
+2024-06-01,AE,discount code,69
+2024-07-01,AE,discount code,67
+2024-08-01,AE,discount code,68
+2024-09-01,AE,discount code,63
+2024-10-01,AE,discount code,62
+2024-11-01,AE,discount code,73
+2024-12-01,AE,discount code,75
+2025-01-01,AE,discount code,65
+2025-02-01,AE,discount code,60
+2025-03-01,AE,discount code,74
+2025-04-01,AE,discount code,61
+2025-05-01,AE,discount code,62
+2025-06-01,AE,discount code,69
+2025-07-01,AE,discount code,63
+2025-08-01,AE,discount code,63
+2025-09-01,AE,discount code,57
+2025-10-01,AE,discount code,56
+2025-11-01,AE,discount code,74
+2025-12-01,AE,discount code,77
+2026-01-01,AE,discount code,60
+2026-02-01,AE,discount code,62
+2026-03-01,AE,discount code,60
+2026-04-01,AE,discount code,57
+2026-05-01,AE,discount code,66
+2026-06-01,AE,discount code,60
+2026-07-01,AE,discount code,58
+2026-08-01,AE,discount code,92
+2026-09-01,AE,discount code,100
+2026-10-01,AE,discount code,51
+2019-01-01,AE,coupon,52
+2019-02-01,AE,coupon,55
+2019-03-01,AE,coupon,55
+2019-04-01,AE,coupon,55
+2019-05-01,AE,coupon,61
+2019-06-01,AE,coupon,58
+2019-07-01,AE,coupon,65
+2019-08-01,AE,coupon,64
+2019-09-01,AE,coupon,63
+2019-10-01,AE,coupon,58
+2019-11-01,AE,coupon,68
+2019-12-01,AE,coupon,68
+2020-01-01,AE,coupon,58
+2020-02-01,AE,coupon,58
+2020-03-01,AE,coupon,55
+2020-04-01,AE,coupon,74
+2020-05-01,AE,coupon,68
+2020-06-01,AE,coupon,64
+2020-07-01,AE,coupon,65
+2020-08-01,AE,coupon,62
+2020-09-01,AE,coupon,54
+2020-10-01,AE,coupon,57
+2020-11-01,AE,coupon,78
+2020-12-01,AE,coupon,77
+2021-01-01,AE,coupon,73
+2021-02-01,AE,coupon,60
+2021-03-01,AE,coupon,63
+2021-04-01,AE,coupon,70
+2021-05-01,AE,coupon,80
+2021-06-01,AE,coupon,81
+2021-07-01,AE,coupon,85
+2021-08-01,AE,coupon,81
+2021-09-01,AE,coupon,73
+2021-10-01,AE,coupon,68
+2021-11-01,AE,coupon,72
+2021-12-01,AE,coupon,73
+2022-01-01,AE,coupon,71
+2022-02-01,AE,coupon,66
+2022-03-01,AE,coupon,68
+2022-04-01,AE,coupon,75
+2022-05-01,AE,coupon,70
+2022-06-01,AE,coupon,70
+2022-07-01,AE,coupon,75
+2022-08-01,AE,coupon,71
+2022-09-01,AE,coupon,60
+2022-10-01,AE,coupon,61
+2022-11-01,AE,coupon,70
+2022-12-01,AE,coupon,70
+2023-01-01,AE,coupon,60
+2023-02-01,AE,coupon,55
+2023-03-01,AE,coupon,60
+2023-04-01,AE,coupon,70
+2023-05-01,AE,coupon,58
+2023-06-01,AE,coupon,62
+2023-07-01,AE,coupon,61
+2023-08-01,AE,coupon,56
+2023-09-01,AE,coupon,51
+2023-10-01,AE,coupon,48
+2023-11-01,AE,coupon,56
+2023-12-01,AE,coupon,70
+2024-01-01,AE,coupon,54
+2024-02-01,AE,coupon,53
+2024-03-01,AE,coupon,58
+2024-04-01,AE,coupon,59
+2024-05-01,AE,coupon,51
+2024-06-01,AE,coupon,55
+2024-07-01,AE,coupon,52
+2024-08-01,AE,coupon,51
+2024-09-01,AE,coupon,47
+2024-10-01,AE,coupon,47
+2024-11-01,AE,coupon,50
+2024-12-01,AE,coupon,54
+2025-01-01,AE,coupon,48
+2025-02-01,AE,coupon,46
+2025-03-01,AE,coupon,49
+2025-04-01,AE,coupon,45
+2025-05-01,AE,coupon,43
+2025-06-01,AE,coupon,49
+2025-07-01,AE,coupon,50
+2025-08-01,AE,coupon,48
+2025-09-01,AE,coupon,45
+2025-10-01,AE,coupon,41
+2025-11-01,AE,coupon,62
+2025-12-01,AE,coupon,56
+2026-01-01,AE,coupon,43
+2026-02-01,AE,coupon,42
+2026-03-01,AE,coupon,43
+2026-04-01,AE,coupon,41
+2026-05-01,AE,coupon,49
+2026-06-01,AE,coupon,42
+2026-07-01,AE,coupon,45
+2026-08-01,AE,coupon,85
+2026-09-01,AE,coupon,100
+2026-10-01,AE,coupon,33
+2019-01-01,AE,كوبون,62
+2019-02-01,AE,كوبون,50
+2019-03-01,AE,كوبون,54
+2019-04-01,AE,كوبون,64
+2019-05-01,AE,كوبون,72
+2019-06-01,AE,كوبون,86
+2019-07-01,AE,كوبون,94
+2019-08-01,AE,كوبون,100
+2019-09-01,AE,كوبون,59
+2019-10-01,AE,كوبون,61
+2019-11-01,AE,كوبون,75
+2019-12-01,AE,كوبون,82
+2020-01-01,AE,كوبون,63
+2020-02-01,AE,كوبون,58
+2020-03-01,AE,كوبون,47
+2020-04-01,AE,كوبون,58
+2020-05-01,AE,كوبون,63
+2020-06-01,AE,كوبون,57
+2020-07-01,AE,كوبون,69
+2020-08-01,AE,كوبون,78
+2020-09-01,AE,كوبون,52
+2020-10-01,AE,كوبون,52
+2020-11-01,AE,كوبون,67
+2020-12-01,AE,كوبون,70
+2021-01-01,AE,كوبون,53
+2021-02-01,AE,كوبون,49
+2021-03-01,AE,كوبون,58
+2021-04-01,AE,كوبون,61
+2021-05-01,AE,كوبون,67
+2021-06-01,AE,كوبون,71
+2021-07-01,AE,كوبون,73
+2021-08-01,AE,كوبون,63
+2021-09-01,AE,كوبون,57
+2021-10-01,AE,كوبون,55
+2021-11-01,AE,كوبون,66
+2021-12-01,AE,كوبون,65
+2022-01-01,AE,كوبون,56
+2022-02-01,AE,كوبون,46
+2022-03-01,AE,كوبون,58
+2022-04-01,AE,كوبون,60
+2022-05-01,AE,كوبون,53
+2022-06-01,AE,كوبون,59
+2022-07-01,AE,كوبون,62
+2022-08-01,AE,كوبون,59
+2022-09-01,AE,كوبون,48
+2022-10-01,AE,كوبون,44
+2022-11-01,AE,كوبون,53
+2022-12-01,AE,كوبون,46
+2023-01-01,AE,كوبون,41
+2023-02-01,AE,كوبون,38
+2023-03-01,AE,كوبون,44
+2023-04-01,AE,كوبون,48
+2023-05-01,AE,كوبون,40
+2023-06-01,AE,كوبون,44
+2023-07-01,AE,كوبون,56
+2023-08-01,AE,كوبون,43
+2023-09-01,AE,كوبون,34
+2023-10-01,AE,كوبون,30
+2023-11-01,AE,كوبون,34
+2023-12-01,AE,كوبون,40
+2024-01-01,AE,كوبون,31
+2024-02-01,AE,كوبون,33
+2024-03-01,AE,كوبون,36
+2024-04-01,AE,كوبون,35
+2024-05-01,AE,كوبون,26
+2024-06-01,AE,كوبون,33
+2024-07-01,AE,كوبون,31
+2024-08-01,AE,كوبون,31
+2024-09-01,AE,كوبون,27
+2024-10-01,AE,كوبون,23
+2024-11-01,AE,كوبون,29
+2024-12-01,AE,كوبون,27
+2025-01-01,AE,كوبون,21
+2025-02-01,AE,كوبون,29
+2025-03-01,AE,كوبون,31
+2025-04-01,AE,كوبون,26
+2025-05-01,AE,كوبون,27
+2025-06-01,AE,كوبون,20
+2025-07-01,AE,كوبون,34
+2025-08-01,AE,كوبون,36
+2025-09-01,AE,كوبون,34
+2025-10-01,AE,كوبون,26
+2025-11-01,AE,كوبون,29
+2025-12-01,AE,كوبون,31
+2026-01-01,AE,كوبون,24
+2026-02-01,AE,كوبون,23
+2026-03-01,AE,كوبون,25
+2026-04-01,AE,كوبون,24
+2026-05-01,AE,كوبون,30
+2026-06-01,AE,كوبون,22
+2026-07-01,AE,كوبون,36
+2026-08-01,AE,كوبون,34
+2026-09-01,AE,كوبون,27
+2026-10-01,AE,كوبون,19
+2019-01-01,AE,خصم,23
+2019-02-01,AE,خصم,25
+2019-03-01,AE,خصم,26
+2019-04-01,AE,خصم,27
+2019-05-01,AE,خصم,31
+2019-06-01,AE,خصم,38
+2019-07-01,AE,خصم,44
+2019-08-01,AE,خصم,52
+2019-09-01,AE,خصم,40
+2019-10-01,AE,خصم,38
+2019-11-01,AE,خصم,52
+2019-12-01,AE,خصم,55
+2020-01-01,AE,خصم,47
+2020-02-01,AE,خصم,42
+2020-03-01,AE,خصم,52
+2020-04-01,AE,خصم,67
+2020-05-01,AE,خصم,74
+2020-06-01,AE,خصم,65
+2020-07-01,AE,خصم,64
+2020-08-01,AE,خصم,64
+2020-09-01,AE,خصم,55
+2020-10-01,AE,خصم,56
+2020-11-01,AE,خصم,74
+2020-12-01,AE,خصم,80
+2021-01-01,AE,خصم,69
+2021-02-01,AE,خصم,61
+2021-03-01,AE,خصم,73
+2021-04-01,AE,خصم,72
+2021-05-01,AE,خصم,91
+2021-06-01,AE,خصم,85
+2021-07-01,AE,خصم,97
+2021-08-01,AE,خصم,100
+2021-09-01,AE,خصم,84
+2021-10-01,AE,خصم,99
+2021-11-01,AE,خصم,95
+2021-12-01,AE,خصم,95
+2022-01-01,AE,خصم,82
+2022-02-01,AE,خصم,69
+2022-03-01,AE,خصم,77
+2022-04-01,AE,خصم,83
+2022-05-01,AE,خصم,86
+2022-06-01,AE,خصم,89
+2022-07-01,AE,خصم,93
+2022-08-01,AE,خصم,91
+2022-09-01,AE,خصم,69
+2022-10-01,AE,خصم,68
+2022-11-01,AE,خصم,75
+2022-12-01,AE,خصم,71
+2023-01-01,AE,خصم,64
+2023-02-01,AE,خصم,62
+2023-03-01,AE,خصم,68
+2023-04-01,AE,خصم,74
+2023-05-01,AE,خصم,64
+2023-06-01,AE,خصم,69
+2023-07-01,AE,خصم,89
+2023-08-01,AE,خصم,76
+2023-09-01,AE,خصم,62
+2023-10-01,AE,خصم,55
+2023-11-01,AE,خصم,61
+2023-12-01,AE,خصم,74
+2024-01-01,AE,خصم,54
+2024-02-01,AE,خصم,50
+2024-03-01,AE,خصم,63
+2024-04-01,AE,خصم,59
+2024-05-01,AE,خصم,59
+2024-06-01,AE,خصم,62
+2024-07-01,AE,خصم,70
+2024-08-01,AE,خصم,68
+2024-09-01,AE,خصم,54
+2024-10-01,AE,خصم,53
+2024-11-01,AE,خصم,63
+2024-12-01,AE,خصم,58
+2025-01-01,AE,خصم,48
+2025-02-01,AE,خصم,48
+2025-03-01,AE,خصم,55
+2025-04-01,AE,خصم,53
+2025-05-01,AE,خصم,51
+2025-06-01,AE,خصم,48
+2025-07-01,AE,خصم,54
+2025-08-01,AE,خصم,57
+2025-09-01,AE,خصم,48
+2025-10-01,AE,خصم,41
+2025-11-01,AE,خصم,51
+2025-12-01,AE,خصم,52
+2026-01-01,AE,خصم,44
+2026-02-01,AE,خصم,43
+2026-03-01,AE,خصم,44
+2026-04-01,AE,خصم,40
+2026-05-01,AE,خصم,46
+2026-06-01,AE,خصم,43
+2026-07-01,AE,خصم,47
+2026-08-01,AE,خصم,51
+2026-09-01,AE,خصم,43
+2026-10-01,AE,خصم,37
+2019-01-01,AE,عروض,75
+2019-02-01,AE,عروض,73
+2019-03-01,AE,عروض,84
+2019-04-01,AE,عروض,91
+2019-05-01,AE,عروض,100
+2019-06-01,AE,عروض,83
+2019-07-01,AE,عروض,83
+2019-08-01,AE,عروض,82
+2019-09-01,AE,عروض,70
+2019-10-01,AE,عروض,72
+2019-11-01,AE,عروض,82
+2019-12-01,AE,عروض,82
+2020-01-01,AE,عروض,77
+2020-02-01,AE,عروض,69
+2020-03-01,AE,عروض,69
+2020-04-01,AE,عروض,67
+2020-05-01,AE,عروض,66
+2020-06-01,AE,عروض,66
+2020-07-01,AE,عروض,82
+2020-08-01,AE,عروض,78
+2020-09-01,AE,عروض,69
+2020-10-01,AE,عروض,71
+2020-11-01,AE,عروض,75
+2020-12-01,AE,عروض,85
+2021-01-01,AE,عروض,63
+2021-02-01,AE,عروض,60
+2021-03-01,AE,عروض,73
+2021-04-01,AE,عروض,80
+2021-05-01,AE,عروض,71
+2021-06-01,AE,عروض,67
+2021-07-01,AE,عروض,73
+2021-08-01,AE,عروض,67
+2021-09-01,AE,عروض,63
+2021-10-01,AE,عروض,63
+2021-11-01,AE,عروض,79
+2021-12-01,AE,عروض,75
+2022-01-01,AE,عروض,61
+2022-02-01,AE,عروض,59
+2022-03-01,AE,عروض,70
+2022-04-01,AE,عروض,72
+2022-05-01,AE,عروض,56
+2022-06-01,AE,عروض,60
+2022-07-01,AE,عروض,65
+2022-08-01,AE,عروض,61
+2022-09-01,AE,عروض,53
+2022-10-01,AE,عروض,49
+2022-11-01,AE,عروض,54
+2022-12-01,AE,عروض,59
+2023-01-01,AE,عروض,49
+2023-02-01,AE,عروض,52
+2023-03-01,AE,عروض,64
+2023-04-01,AE,عروض,53
+2023-05-01,AE,عروض,48
+2023-06-01,AE,عروض,54
+2023-07-01,AE,عروض,54
+2023-08-01,AE,عروض,51
+2023-09-01,AE,عروض,45
+2023-10-01,AE,عروض,41
+2023-11-01,AE,عروض,46
+2023-12-01,AE,عروض,56
+2024-01-01,AE,عروض,41
+2024-02-01,AE,عروض,38
+2024-03-01,AE,عروض,44
+2024-04-01,AE,عروض,36
+2024-05-01,AE,عروض,36
+2024-06-01,AE,عروض,37
+2024-07-01,AE,عروض,39
+2024-08-01,AE,عروض,40
+2024-09-01,AE,عروض,34
+2024-10-01,AE,عروض,33
+2024-11-01,AE,عروض,42
+2024-12-01,AE,عروض,42
+2025-01-01,AE,عروض,33
+2025-02-01,AE,عروض,36
+2025-03-01,AE,عروض,40
+2025-04-01,AE,عروض,29
+2025-05-01,AE,عروض,30
+2025-06-01,AE,عروض,33
+2025-07-01,AE,عروض,37
+2025-08-01,AE,عروض,36
+2025-09-01,AE,عروض,30
+2025-10-01,AE,عروض,32
+2025-11-01,AE,عروض,38
+2025-12-01,AE,عروض,42
+2026-01-01,AE,عروض,31
+2026-02-01,AE,عروض,39
+2026-03-01,AE,عروض,32
+2026-04-01,AE,عروض,28
+2026-05-01,AE,عروض,36
+2026-06-01,AE,عروض,30
+2026-07-01,AE,عروض,29
+2026-08-01,AE,عروض,35
+2026-09-01,AE,عروض,31
+2026-10-01,AE,عروض,28
+2019-01-01,AE,tabby,1
+2019-02-01,AE,tabby,1
+2019-03-01,AE,tabby,1
+2019-04-01,AE,tabby,1
+2019-05-01,AE,tabby,0
+2019-06-01,AE,tabby,1
+2019-07-01,AE,tabby,0
+2019-08-01,AE,tabby,1
+2019-09-01,AE,tabby,1
+2019-10-01,AE,tabby,1
+2019-11-01,AE,tabby,2
+2019-12-01,AE,tabby,1
+2020-01-01,AE,tabby,1
+2020-02-01,AE,tabby,1
+2020-03-01,AE,tabby,0
+2020-04-01,AE,tabby,1
+2020-05-01,AE,tabby,2
+2020-06-01,AE,tabby,3
+2020-07-01,AE,tabby,3
+2020-08-01,AE,tabby,4
+2020-09-01,AE,tabby,4
+2020-10-01,AE,tabby,4
+2020-11-01,AE,tabby,6
+2020-12-01,AE,tabby,7
+2021-01-01,AE,tabby,7
+2021-02-01,AE,tabby,8
+2021-03-01,AE,tabby,10
+2021-04-01,AE,tabby,11
+2021-05-01,AE,tabby,12
+2021-06-01,AE,tabby,13
+2021-07-01,AE,tabby,15
+2021-08-01,AE,tabby,17
+2021-09-01,AE,tabby,14
+2021-10-01,AE,tabby,14
+2021-11-01,AE,tabby,16
+2021-12-01,AE,tabby,16
+2022-01-01,AE,tabby,19
+2022-02-01,AE,tabby,18
+2022-03-01,AE,tabby,20
+2022-04-01,AE,tabby,24
+2022-05-01,AE,tabby,21
+2022-06-01,AE,tabby,23
+2022-07-01,AE,tabby,29
+2022-08-01,AE,tabby,34
+2022-09-01,AE,tabby,31
+2022-10-01,AE,tabby,35
+2022-11-01,AE,tabby,42
+2022-12-01,AE,tabby,41
+2023-01-01,AE,tabby,41
+2023-02-01,AE,tabby,46
+2023-03-01,AE,tabby,51
+2023-04-01,AE,tabby,53
+2023-05-01,AE,tabby,54
+2023-06-01,AE,tabby,63
+2023-07-01,AE,tabby,67
+2023-08-01,AE,tabby,64
+2023-09-01,AE,tabby,56
+2023-10-01,AE,tabby,56
+2023-11-01,AE,tabby,58
+2023-12-01,AE,tabby,68
+2024-01-01,AE,tabby,66
+2024-02-01,AE,tabby,65
+2024-03-01,AE,tabby,75
+2024-04-01,AE,tabby,72
+2024-05-01,AE,tabby,64
+2024-06-01,AE,tabby,73
+2024-07-01,AE,tabby,73
+2024-08-01,AE,tabby,78
+2024-09-01,AE,tabby,70
+2024-10-01,AE,tabby,72
+2024-11-01,AE,tabby,80
+2024-12-01,AE,tabby,73
+2025-01-01,AE,tabby,70
+2025-02-01,AE,tabby,72
+2025-03-01,AE,tabby,79
+2025-04-01,AE,tabby,69
+2025-05-01,AE,tabby,80
+2025-06-01,AE,tabby,79
+2025-07-01,AE,tabby,87
+2025-08-01,AE,tabby,86
+2025-09-01,AE,tabby,80
+2025-10-01,AE,tabby,76
+2025-11-01,AE,tabby,74
+2025-12-01,AE,tabby,74
+2026-01-01,AE,tabby,73
+2026-02-01,AE,tabby,70
+2026-03-01,AE,tabby,73
+2026-04-01,AE,tabby,70
+2026-05-01,AE,tabby,81
+2026-06-01,AE,tabby,90
+2026-07-01,AE,tabby,100
+2026-08-01,AE,tabby,94
+2026-09-01,AE,tabby,86
+2026-10-01,AE,tabby,89
+2019-01-01,AE,luxury,43
+2019-02-01,AE,luxury,42
+2019-03-01,AE,luxury,42
+2019-04-01,AE,luxury,44
+2019-05-01,AE,luxury,44
+2019-06-01,AE,luxury,43
+2019-07-01,AE,luxury,51
+2019-08-01,AE,luxury,47
+2019-09-01,AE,luxury,44
+2019-10-01,AE,luxury,44
+2019-11-01,AE,luxury,45
+2019-12-01,AE,luxury,43
+2020-01-01,AE,luxury,42
+2020-02-01,AE,luxury,42
+2020-03-01,AE,luxury,29
+2020-04-01,AE,luxury,25
+2020-05-01,AE,luxury,32
+2020-06-01,AE,luxury,34
+2020-07-01,AE,luxury,45
+2020-08-01,AE,luxury,42
+2020-09-01,AE,luxury,37
+2020-10-01,AE,luxury,40
+2020-11-01,AE,luxury,40
+2020-12-01,AE,luxury,42
+2021-01-01,AE,luxury,41
+2021-02-01,AE,luxury,43
+2021-03-01,AE,luxury,46
+2021-04-01,AE,luxury,43
+2021-05-01,AE,luxury,40
+2021-06-01,AE,luxury,42
+2021-07-01,AE,luxury,46
+2021-08-01,AE,luxury,42
+2021-09-01,AE,luxury,42
+2021-10-01,AE,luxury,43
+2021-11-01,AE,luxury,44
+2021-12-01,AE,luxury,44
+2022-01-01,AE,luxury,50
+2022-02-01,AE,luxury,47
+2022-03-01,AE,luxury,44
+2022-04-01,AE,luxury,48
+2022-05-01,AE,luxury,48
+2022-06-01,AE,luxury,50
+2022-07-01,AE,luxury,52
+2022-08-01,AE,luxury,49
+2022-09-01,AE,luxury,50
+2022-10-01,AE,luxury,45
+2022-11-01,AE,luxury,46
+2022-12-01,AE,luxury,47
+2023-01-01,AE,luxury,50
+2023-02-01,AE,luxury,46
+2023-03-01,AE,luxury,49
+2023-04-01,AE,luxury,50
+2023-05-01,AE,luxury,51
+2023-06-01,AE,luxury,49
+2023-07-01,AE,luxury,53
+2023-08-01,AE,luxury,52
+2023-09-01,AE,luxury,49
+2023-10-01,AE,luxury,46
+2023-11-01,AE,luxury,50
+2023-12-01,AE,luxury,54
+2024-01-01,AE,luxury,54
+2024-02-01,AE,luxury,53
+2024-03-01,AE,luxury,56
+2024-04-01,AE,luxury,54
+2024-05-01,AE,luxury,57
+2024-06-01,AE,luxury,56
+2024-07-01,AE,luxury,63
+2024-08-01,AE,luxury,63
+2024-09-01,AE,luxury,57
+2024-10-01,AE,luxury,60
+2024-11-01,AE,luxury,61
+2024-12-01,AE,luxury,59
+2025-01-01,AE,luxury,64
+2025-02-01,AE,luxury,65
+2025-03-01,AE,luxury,66
+2025-04-01,AE,luxury,69
+2025-05-01,AE,luxury,66
+2025-06-01,AE,luxury,63
+2025-07-01,AE,luxury,75
+2025-08-01,AE,luxury,76
+2025-09-01,AE,luxury,63
+2025-10-01,AE,luxury,71
+2025-11-01,AE,luxury,96
+2025-12-01,AE,luxury,99
+2026-01-01,AE,luxury,97
+2026-02-01,AE,luxury,100
+2026-03-01,AE,luxury,81
+2026-04-01,AE,luxury,77
+2026-05-01,AE,luxury,92
+2026-06-01,AE,luxury,83
+2026-07-01,AE,luxury,70
+2026-08-01,AE,luxury,74
+2026-09-01,AE,luxury,68
+2026-10-01,AE,luxury,62
+2019-01-01,AE,Dubai Shopping Festival,84
+2019-02-01,AE,Dubai Shopping Festival,24
+2019-03-01,AE,Dubai Shopping Festival,6
+2019-04-01,AE,Dubai Shopping Festival,7
+2019-05-01,AE,Dubai Shopping Festival,9
+2019-06-01,AE,Dubai Shopping Festival,11
+2019-07-01,AE,Dubai Shopping Festival,7
+2019-08-01,AE,Dubai Shopping Festival,5
+2019-09-01,AE,Dubai Shopping Festival,8
+2019-10-01,AE,Dubai Shopping Festival,14
+2019-11-01,AE,Dubai Shopping Festival,20
+2019-12-01,AE,Dubai Shopping Festival,100
+2020-01-01,AE,Dubai Shopping Festival,82
+2020-02-01,AE,Dubai Shopping Festival,19
+2020-03-01,AE,Dubai Shopping Festival,2
+2020-04-01,AE,Dubai Shopping Festival,0
+2020-05-01,AE,Dubai Shopping Festival,3
+2020-06-01,AE,Dubai Shopping Festival,4
+2020-07-01,AE,Dubai Shopping Festival,6
+2020-08-01,AE,Dubai Shopping Festival,5
+2020-09-01,AE,Dubai Shopping Festival,3
+2020-10-01,AE,Dubai Shopping Festival,7
+2020-11-01,AE,Dubai Shopping Festival,14
+2020-12-01,AE,Dubai Shopping Festival,77
+2021-01-01,AE,Dubai Shopping Festival,47
+2021-02-01,AE,Dubai Shopping Festival,9
+2021-03-01,AE,Dubai Shopping Festival,3
+2021-04-01,AE,Dubai Shopping Festival,3
+2021-05-01,AE,Dubai Shopping Festival,7
+2021-06-01,AE,Dubai Shopping Festival,5
+2021-07-01,AE,Dubai Shopping Festival,4
+2021-08-01,AE,Dubai Shopping Festival,2
+2021-09-01,AE,Dubai Shopping Festival,5
+2021-10-01,AE,Dubai Shopping Festival,6
+2021-11-01,AE,Dubai Shopping Festival,11
+2021-12-01,AE,Dubai Shopping Festival,66
+2022-01-01,AE,Dubai Shopping Festival,46
+2022-02-01,AE,Dubai Shopping Festival,7
+2022-03-01,AE,Dubai Shopping Festival,5
+2022-04-01,AE,Dubai Shopping Festival,4
+2022-05-01,AE,Dubai Shopping Festival,6
+2022-06-01,AE,Dubai Shopping Festival,4
+2022-07-01,AE,Dubai Shopping Festival,4
+2022-08-01,AE,Dubai Shopping Festival,4
+2022-09-01,AE,Dubai Shopping Festival,5
+2022-10-01,AE,Dubai Shopping Festival,9
+2022-11-01,AE,Dubai Shopping Festival,11
+2022-12-01,AE,Dubai Shopping Festival,67
+2023-01-01,AE,Dubai Shopping Festival,43
+2023-02-01,AE,Dubai Shopping Festival,5
+2023-03-01,AE,Dubai Shopping Festival,2
+2023-04-01,AE,Dubai Shopping Festival,3
+2023-05-01,AE,Dubai Shopping Festival,4
+2023-06-01,AE,Dubai Shopping Festival,5
+2023-07-01,AE,Dubai Shopping Festival,4
+2023-08-01,AE,Dubai Shopping Festival,3
+2023-09-01,AE,Dubai Shopping Festival,4
+2023-10-01,AE,Dubai Shopping Festival,8
+2023-11-01,AE,Dubai Shopping Festival,10
+2023-12-01,AE,Dubai Shopping Festival,50
+2024-01-01,AE,Dubai Shopping Festival,26
+2024-02-01,AE,Dubai Shopping Festival,3
+2024-03-01,AE,Dubai Shopping Festival,2
+2024-04-01,AE,Dubai Shopping Festival,2
+2024-05-01,AE,Dubai Shopping Festival,3
+2024-06-01,AE,Dubai Shopping Festival,4
+2024-07-01,AE,Dubai Shopping Festival,3
+2024-08-01,AE,Dubai Shopping Festival,3
+2024-09-01,AE,Dubai Shopping Festival,5
+2024-10-01,AE,Dubai Shopping Festival,6
+2024-11-01,AE,Dubai Shopping Festival,11
+2024-12-01,AE,Dubai Shopping Festival,47
+2025-01-01,AE,Dubai Shopping Festival,24
+2025-02-01,AE,Dubai Shopping Festival,3
+2025-03-01,AE,Dubai Shopping Festival,2
+2025-04-01,AE,Dubai Shopping Festival,2
+2025-05-01,AE,Dubai Shopping Festival,3
+2025-06-01,AE,Dubai Shopping Festival,3
+2025-07-01,AE,Dubai Shopping Festival,3
+2025-08-01,AE,Dubai Shopping Festival,3
+2025-09-01,AE,Dubai Shopping Festival,2
+2025-10-01,AE,Dubai Shopping Festival,5
+2025-11-01,AE,Dubai Shopping Festival,7
+2025-12-01,AE,Dubai Shopping Festival,30
+2026-01-01,AE,Dubai Shopping Festival,16
+2026-02-01,AE,Dubai Shopping Festival,2
+2026-03-01,AE,Dubai Shopping Festival,2
+2026-04-01,AE,Dubai Shopping Festival,0
+2026-05-01,AE,Dubai Shopping Festival,2
+2026-06-01,AE,Dubai Shopping Festival,1
+2026-07-01,AE,Dubai Shopping Festival,3
+2026-08-01,AE,Dubai Shopping Festival,2
+2026-09-01,AE,Dubai Shopping Festival,2
+2026-10-01,AE,Dubai Shopping Festival,3
